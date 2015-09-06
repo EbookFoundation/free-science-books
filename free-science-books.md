@@ -1,4 +1,4 @@
-# Subject areas (In order of LIBRARY OF CONGRESS CLASSIFICATION)
+# Subject areas (In order of [LIBRARY OF CONGRESS CLASSIFICATION](http://www.loc.gov/catdir/cpso/lcco/) )
 
 ## Science (General)   (Q)
 ## Mathematics (QA)
