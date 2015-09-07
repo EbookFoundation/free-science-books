@@ -4,6 +4,8 @@
 ## Mathematics (QA)
 ## Astronomy   (QB)
 ## Physics (QC)
+* [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu/)
+
 ## Chemistry   (QD)
 ## Geology (QE)
 ## Natural history (QH)
