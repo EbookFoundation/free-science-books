@@ -1,6 +1,6 @@
 # Subject areas (In order of [LIBRARY OF CONGRESS CLASSIFICATION](http://www.loc.gov/catdir/cpso/lcco/) )
 
-## Science (General)   (Q)
+# Science (General)   [(Q)]
 ## Mathematics (QA)
 ## Astronomy   (QB)
 ## Physics (QC)
@@ -12,3 +12,7 @@
 ## Human anatomy   (QM)
 ## Physiology (QP)
 ## Microbiology (QR)
+
+# Medicine [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf)
+
+# Technology [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf)
