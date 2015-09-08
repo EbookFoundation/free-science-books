@@ -7,6 +7,8 @@
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu/)
 
 ## Chemistry   (QD)
+* [The Medical Biochemistry Page](http://themedicalbiochemistrypage.org/)
+
 ## Geology (QE)
 ## Natural history (QH)
 ## Botany  (QK)
