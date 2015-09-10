@@ -2,6 +2,7 @@
 
 # Science (General)   [(Q)]
 ## Mathematics (QA)
+* [Stacks Project](http://stacks.math.columbia.edu/)
 ## Astronomy   (QB)
 ## Physics (QC)
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu/)
