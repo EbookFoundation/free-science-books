@@ -2,7 +2,11 @@
 
 # Science (General) (Q)
 ## Mathematics (QA)
+* [Wisconsin Calculus](https://www.math.wisc.edu/undergraduate/calcstudentpage) (PDF)
+* [Elementary Algebra](http://www.mathhands.com/046) (PDF)
 * [Stacks Project](http://stacks.math.columbia.edu/)
+
+
 
 ## Astronomy (QB)
 
