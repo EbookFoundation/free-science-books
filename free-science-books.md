@@ -3,9 +3,9 @@
 # Science (General) (Q)
 
 ## Mathematics (QA)
-* [Elementary Algebra](http://www.mathhands.com/046) (PDF) by Francisco Javier Márquez
+* [Elementary Algebra](http://www.mathhands.com/046), by Francisco Javier Márquez (2011).
 * [Stacks Project](http://stacks.math.columbia.edu/)
-* [Wisconsin Calculus](https://www.math.wisc.edu/undergraduate/calcstudentpage) (PDF) by Sigurd B. Angenent et al.
+* [Wisconsin Calculus](https://www.math.wisc.edu/undergraduate/calcstudentpage), by Sigurd B. Angenent et al. (2015).
 
 
 ## Astronomy   (QB)
@@ -23,7 +23,7 @@
 ## Chemistry   (QD)
 * [A Dictionary of Chemistry](https://unglue.it/work/140195/), by Pierre Joseph Macquer and James Keir (1777)
 * [CK-12 Chemistry - Second Edition](https://unglue.it/work/140345/), by Sharon Bewick et al. (2011)
-* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry](https://unglue.it/work/145870/), by Kieran Gallagher and Lizhi Fan (2012)
+* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry](https://unglue.it/work/145870/), by Kieran Gallagher and Lizhi Fan (2012).
 
 
 ## Geology (QE)
