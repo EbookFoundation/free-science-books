@@ -2,9 +2,9 @@
 
 # Science (General) (Q)
 ## Mathematics (QA)
-* [Elementary Algebra](http://www.mathhands.com/046) (PDF)
+* [Elementary Algebra](http://www.mathhands.com/046) (PDF) by Francisco Javier Márquez.
 * [Stacks Project](http://stacks.math.columbia.edu/)
-* [Wisconsin Calculus](https://www.math.wisc.edu/undergraduate/calcstudentpage) (PDF)
+* [Wisconsin Calculus](https://www.math.wisc.edu/undergraduate/calcstudentpage) (PDF) by Sigurd B. Angenent et al.
 
 ## Astronomy (QB)
 
