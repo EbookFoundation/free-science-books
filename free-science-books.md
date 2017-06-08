@@ -9,7 +9,12 @@
 ## Physics (QC)
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu/)
 
-## Chemistry (QD)
+
+## Chemistry   (QD)
+* [A Dictionary of Chemistry](https://unglue.it/work/140195/), by Pierre Joseph Macquer and James Keir (1777)
+* [CK-12 Chemistry - Second Edition](https://unglue.it/work/140345/), by Sharon Bewick et al. (2011)
+* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry](https://unglue.it/work/145870/), by Kieran Gallagher and Lizhi Fan (2012)
+
 
 ## Geology (QE)
 
