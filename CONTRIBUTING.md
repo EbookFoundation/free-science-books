@@ -19,6 +19,10 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
 5. Use our standard for formatting the .md file. Check it out: [Formatting](#formatting)
 6. Must use ***alphabetic*** order.
 
+### Scope
++ If a book would be catalogued in an Library of Congress category other than [Science](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf), [Medicine](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf), or [Technology](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf), for example, ["MUSIC AND BOOKS ON MUSIC"](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_m.pdf) then it's out of scope for this list.
++ If a non-book resource is proposed, for example "screencasts", "interactive tutorials", etc., following the example of [free-programming-books](https://github.com/vhf/free-programming-books/), we encourage these resources to be included in a separate page dedicate to that sort of resource.
++ If a book or resource is a "free-programming" book or resource, it should [go there](https://github.com/vhf/free-programming-books/). Math books might go both places, but not computer science.
 
 ### Formatting
 + All lists are `.md` files. Try to learn Github's Markdown syntax. It's simple!
