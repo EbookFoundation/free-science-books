@@ -4,6 +4,8 @@
 
 ## Mathematics (QA)
 * [Elementary Algebra](http://www.mathhands.com/046), by Francisco Javier Márquez (2011)
+* [Mathematics For Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf), by Eric Lehman et al. (2017)
+* [BookOfProof](http://www.people.vcu.edu/~rhammack/BookOfProof), by Richard Hammack (2013)
 * [Stacks Project](http://stacks.math.columbia.edu/)
 
 
