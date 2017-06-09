@@ -3,15 +3,16 @@
 # Science (General) (Q)
 
 ## Mathematics (QA)
+* [Elementary Algebra](http://www.mathhands.com/046), by Francisco Javier Márquez (2011)
 * [Stacks Project](http://stacks.math.columbia.edu/)
 
 
 ## Astronomy   (QB)
-* [Archaeology, Anthropology, and Interstellar Communication](https://unglue.it/work/139785/), by Douglas A. Vakoch (2014).
-* [Astronomy](https://unglue.it/work/81942/), by Sir Robert Stawell Ball (1877). 
-* [Astronomy](https://unglue.it/work/81943/), by Harold Jacoby (1915).
-* [Elements of astronomy](https://unglue.it/work/81958/), by John Hubbard Wilkins (1836).
-* [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope](https://unglue.it/work/145858/), by Dylan Steele (2015).
+* [Archaeology, Anthropology, and Interstellar Communication](https://unglue.it/work/139785/), by Douglas A. Vakoch (2014)
+* [Astronomy](https://unglue.it/work/81942/), by Sir Robert Stawell Ball (1877) 
+* [Astronomy](https://unglue.it/work/81943/), by Harold Jacoby (1915)
+* [Elements of astronomy](https://unglue.it/work/81958/), by John Hubbard Wilkins (1836)
+* [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope](https://unglue.it/work/145858/), by Dylan Steele (2015)
 
 
 ## Physics (QC)
@@ -43,7 +44,7 @@
 # Technology [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf)
 
 ## Mechanical engineering and machinery (TJ) (includes Energy Conservation)
-* [Climate Change and the Oil Industry](https://unglue.it/work/138838/), by Jon Birger Skjaerseth and Tora Skodvin (2003).
-* [Our Car as Power Plant](https://unglue.it/work/129373/), by Ad van Wijk and Leendert Verhoef (2014). 
-* [Sustainable Energy - without the hot air](https://unglue.it/work/140777/), by David J. C. MacKay (2009).
-* [Understanding the Global Energy Crisis](https://unglue.it/work/136212/), by Eugene D. Coyle and Richard A. Simmons (2014).
+* [Climate Change and the Oil Industry](https://unglue.it/work/138838/), by Jon Birger Skjaerseth and Tora Skodvin (2003)
+* [Our Car as Power Plant](https://unglue.it/work/129373/), by Ad van Wijk and Leendert Verhoef (2014) 
+* [Sustainable Energy - without the hot air](https://unglue.it/work/140777/), by David J. C. MacKay (2009)
+* [Understanding the Global Energy Crisis](https://unglue.it/work/136212/), by Eugene D. Coyle and Richard A. Simmons (2014)
