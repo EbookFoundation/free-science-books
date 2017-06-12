@@ -2,10 +2,12 @@
 
 # [(Q)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
 
-## (QA) Mathematics
 
+## (QA) Mathematics
+* [Book Of Proof (2013)](http://www.people.vcu.edu/~rhammack/BookOfProof) - Richard Hammack
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
-* [Stacks Project](http://stacks.math.columbia.edu)
+* [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al.
+* [Stacks Project](http://stacks.math.columbia.edu/)
 
 
 ## (QB) Astronomy
