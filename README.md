@@ -1,3 +1,7 @@
+# Free Science Books
+
+[View the English list](/free-science-books.md)
+
 ## Intro
 
 This list was inspired by [free-programming-books](https://github.com/vhf/free-programming-books/). A few of us decided to try it for Science books.
@@ -27,6 +31,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Bulgarian: [github](/free-science-books-bg.md)
 + Chinese: [github](/free-science-books-zh.md)
 + Czech: [github](/free-science-books-cs.md)
++ English: [github](/free-science-books.md)
 + French: [github](/free-science-books-fr.md)
 + German: [github](/free-science-books-de.md)
 + Greek: [github](/free-science-books-gr.md)
