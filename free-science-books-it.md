@@ -4,26 +4,20 @@
 
 ## (QA) Matematica
 
-* [Appunti del corso di Matematica Generale](http://www.batmath.it/matematica/0-appunti_uni/mat_gen.pdf) - L. Battaia - Università degli Studi di Udine - Sede di Pordenone
-* [Matematica C3 – Algebra 1](https://www.matematicamente.it/staticfiles/matematica-C3/algebra1_6ed_set2017.pdf) - AA.VV. 
+* [Appunti del corso di Matematica Generale](http://www.batmath.it/matematica/0-appunti_uni/mat_gen.pdf) - L. Battaia - Università degli Studi di Udine - Sede di Pordenone (PDF)
+* [Matematica C3 – Algebra 1](https://www.matematicamente.it/staticfiles/matematica-C3/algebra1_6ed_set2017.pdf) - AA.VV. (PDF)
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
 
-## (QB) Astronomia
 
-## (QC) Fisica
+# - Sezioni da aggiungere
 
-## (QD) Chimica
-
-## (QE) Geologia
-
-## (QH) Storia
-
-## (QK) Botanica
-
-## (QL) Zoologia
-
-## (QM) Anatomia umana
-
-## (QP) Fisiologia
-
-## (QR) Microbiologia
+* (QB) Astronomia
+* (QC) Fisica
+* (QD) Chimica
+* (QE) Geologia
+* (QH) Storia
+* (QK) Botanica
+* (QL) Zoologia
+* (QM) Anatomia umana
+* (QP) Fisiologia
+* (QR) Microbiologia
