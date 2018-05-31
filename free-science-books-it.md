@@ -5,3 +5,23 @@
 ## (QA) Matematica
 
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
+
+## (QB) Astronomia
+
+## (QC) Fisica
+
+## (QD) Chimica
+
+## (QE) Geologia
+
+## (QH) Storia
+
+## (QK) Botanica
+
+## (QL) Zoologia
+
+## (QM) Anatomia umana
+
+## (QP) Fisiologia
+
+## (QR) Microbiologia
