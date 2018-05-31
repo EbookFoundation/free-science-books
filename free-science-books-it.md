@@ -2,6 +2,13 @@
 
 # [(Q)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Scienze (Generale)
 
+## (QC) Fisica
+
+* [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
+* [Fisica per la scuola superiore](https://www.matematicamente.it/staticfiles/manuali-cc/G.Troiano-Fisica-superiori.pdf) - G. Troiano (PDF)
+* [Fisica sperimentale](https://www.matematicamente.it/staticfiles/manuali-cc/Fisica-Sperimentale-dic2016.pdf) - G. Organtini (PDF)
+
+
 ## (QA) Matematica
 
 * [Appunti del corso di Matematica Generale](http://www.batmath.it/matematica/0-appunti_uni/mat_gen.pdf) - L. Battaia - Università degli Studi di Udine - Sede di Pordenone (PDF)
@@ -12,7 +19,6 @@
 # - Sezioni da aggiungere
 
 * (QB) Astronomia
-* (QC) Fisica
 * (QD) Chimica
 * (QE) Geologia
 * (QH) Storia
