@@ -21,11 +21,9 @@
 * [Chimica C3](https://www.matematicamente.it/staticfiles/manuali-cc/Matematicamente-ChimicaC3.pdf) - AA.VV. (PDF)
 
 
-## (QH) Storia
+## (QH) Storia naturale - Biologia
 
-* [Storia C3, L'età medievale](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-I.pdf) - E. Leonetti (PDF)
-* [Storia C3, Il Novecento](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-III.pdf) - E. Leonetti (PDF)
-* [Storia C3, L'età moderna](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-II.pdf) - E. Leonetti (PDF)
+* [Biologia C3](https://www.matematicamente.it/staticfiles/manuali-cc/matematicamente-biologiaC3.pdf) - A. Bernardo (PDF)
 
 
 # - Sezioni da aggiungere
