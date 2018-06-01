@@ -40,7 +40,7 @@
 
 ## (QL) Zoologia
 
-* [Appunti di Zoologia generale](http://appuntidizoologia.blogspot.com/)
+* [Appunti di Zoologia generale](http://appuntidizoologia.blogspot.com)
 
 
 ## (QR) Microbiologia
