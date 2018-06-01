@@ -2,13 +2,6 @@
 
 # [(Q)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Scienze (Generale)
 
-## (QC) Fisica
-
-* [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
-* [Fisica per la scuola superiore](https://www.matematicamente.it/staticfiles/manuali-cc/G.Troiano-Fisica-superiori.pdf) - G. Troiano (PDF)
-* [Fisica sperimentale](https://www.matematicamente.it/staticfiles/manuali-cc/Fisica-Sperimentale-dic2016.pdf) - G. Organtini (PDF)
-
-
 ## (QA) Matematica
 
 * [Appunti del corso di Matematica Generale](http://www.batmath.it/matematica/0-appunti_uni/mat_gen.pdf) - L. Battaia - Università degli Studi di Udine - Sede di Pordenone (PDF)
@@ -16,12 +9,29 @@
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
 
 
+## (QC) Fisica
+
+* [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
+* [Fisica per la scuola superiore](https://www.matematicamente.it/staticfiles/manuali-cc/G.Troiano-Fisica-superiori.pdf) - G. Troiano (PDF)
+* [Fisica sperimentale](https://www.matematicamente.it/staticfiles/manuali-cc/Fisica-Sperimentale-dic2016.pdf) - G. Organtini (PDF)
+
+
+## (QD) Chimica
+
+* [Chimica C3](https://www.matematicamente.it/staticfiles/manuali-cc/Matematicamente-ChimicaC3.pdf) - AA.VV. (PDF)
+
+
+## (QH) Storia
+
+* [Storia C3, L'età medievale](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-I.pdf) - E. Leonetti (PDF)
+* [Storia C3, L'età moderna](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-II.pdf) - E. Leonetti (PDF)
+* [Storia C3, Il Novecento](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-III.pdf) - E. Leonetti (PDF)
+
+
 # - Sezioni da aggiungere
 
 * (QB) Astronomia
-* (QD) Chimica
 * (QE) Geologia
-* (QH) Storia
 * (QK) Botanica
 * (QL) Zoologia
 * (QM) Anatomia umana
