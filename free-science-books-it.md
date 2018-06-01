@@ -33,6 +33,11 @@
 * [Biologia C3](https://www.matematicamente.it/staticfiles/manuali-cc/matematicamente-biologiaC3.pdf) - A. Bernardo (PDF)
 
 
+## (QR) Microbiologia
+
+* [Appunti di Microbiologia](http://www.istitutopalatucci.it/libri/scienze/Microbiologia-Perin.pdf) - G. Perin (PDF)
+
+
 # - Sezioni da aggiungere
 
 * (QE) Geologia
@@ -40,4 +45,3 @@
 * (QL) Zoologia
 * (QM) Anatomia umana
 * (QP) Fisiologia
-* (QR) Microbiologia
