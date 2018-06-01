@@ -38,6 +38,11 @@
 * [Appunti di Botanica](http://www.itaspastori.gov.it/wordpress/wp-document/Studenti/Documentazione%20scaricabile/GuidoGandelli_BOTANICA_MARZO_2016.pdf) - G. Gandelli (PDF)
 
 
+## (QL) Zoologia
+
+* [Appunti di Zoologia generale](http://appuntidizoologia.blogspot.com/)
+
+
 ## (QR) Microbiologia
 
 * [Appunti di Microbiologia](http://www.istitutopalatucci.it/libri/scienze/Microbiologia-Perin.pdf) - G. Perin (PDF)
