@@ -24,8 +24,8 @@
 ## (QH) Storia
 
 * [Storia C3, L'età medievale](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-I.pdf) - E. Leonetti (PDF)
-* [Storia C3, L'età moderna](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-II.pdf) - E. Leonetti (PDF)
 * [Storia C3, Il Novecento](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-III.pdf) - E. Leonetti (PDF)
+* [Storia C3, L'età moderna](https://www.matematicamente.it/staticfiles/manuali-cc/Leonetti-Storia-II.pdf) - E. Leonetti (PDF)
 
 
 # - Sezioni da aggiungere
