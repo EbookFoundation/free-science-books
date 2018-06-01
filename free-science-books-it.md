@@ -33,6 +33,11 @@
 * [Biologia C3](https://www.matematicamente.it/staticfiles/manuali-cc/matematicamente-biologiaC3.pdf) - A. Bernardo (PDF)
 
 
+## (QK) Botanica
+
+* [Appunti di Botanica](http://www.itaspastori.gov.it/wordpress/wp-document/Studenti/Documentazione%20scaricabile/GuidoGandelli_BOTANICA_MARZO_2016.pdf) - G. Gandelli (PDF)
+
+
 ## (QR) Microbiologia
 
 * [Appunti di Microbiologia](http://www.istitutopalatucci.it/libri/scienze/Microbiologia-Perin.pdf) - G. Perin (PDF)
@@ -41,7 +46,6 @@
 # - Sezioni da aggiungere
 
 * (QE) Geologia
-* (QK) Botanica
 * (QL) Zoologia
 * (QM) Anatomia umana
 * (QP) Fisiologia
