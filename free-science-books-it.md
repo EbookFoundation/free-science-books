@@ -9,6 +9,13 @@
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
 
 
+## (QB) Astronomia
+
+* [Corso di Astronomia Vol.1](http://www.lorenzoroi.net/prelievi/CorsoAstro1.pdf) - L. Roi  _1997_ (PDF)
+* [Corso di Astronomia Vol.2](http://www.lorenzoroi.net/prelievi/CorsoAstro2.pdf) - L. Roi  _1998_ (PDF)
+* [Lezioni ed esercizi di Astronomia](http://www.na.astro.it/~rifatto/personale/dispense_di_astronomia.pdf) - A. Rifatto INAF- Osservatorio Astronomico di Capodimonte Napoli (PDF)
+
+
 ## (QC) Fisica
 
 * [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
@@ -28,7 +35,6 @@
 
 # - Sezioni da aggiungere
 
-* (QB) Astronomia
 * (QE) Geologia
 * (QK) Botanica
 * (QL) Zoologia
