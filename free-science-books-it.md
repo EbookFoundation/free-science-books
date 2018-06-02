@@ -9,6 +9,13 @@
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
 
 
+## (QB) Astronomia
+
+* [Corso di Astronomia Vol.1](http://www.lorenzoroi.net/prelievi/CorsoAstro1.pdf) - L. Roi  _1997_ (PDF)
+* [Corso di Astronomia Vol.2](http://www.lorenzoroi.net/prelievi/CorsoAstro2.pdf) - L. Roi  _1998_ (PDF)
+* [Lezioni ed esercizi di Astronomia](http://www.na.astro.it/~rifatto/personale/dispense_di_astronomia.pdf) - A. Rifatto INAF- Osservatorio Astronomico di Capodimonte Napoli (PDF)
+
+
 ## (QC) Fisica
 
 * [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
@@ -26,12 +33,24 @@
 * [Biologia C3](https://www.matematicamente.it/staticfiles/manuali-cc/matematicamente-biologiaC3.pdf) - A. Bernardo (PDF)
 
 
+## (QK) Botanica
+
+* [Appunti di Botanica](http://www.itaspastori.gov.it/wordpress/wp-document/Studenti/Documentazione%20scaricabile/GuidoGandelli_BOTANICA_MARZO_2016.pdf) - G. Gandelli (PDF)
+
+
+## (QL) Zoologia
+
+* [Appunti di Zoologia generale](http://appuntidizoologia.blogspot.com)
+
+
+## (QR) Microbiologia
+
+* [Appunti di Microbiologia](http://www.istitutopalatucci.it/libri/scienze/Microbiologia-Perin.pdf) - G. Perin (PDF)
+
+
 # - Sezioni da aggiungere
 
-* (QB) Astronomia
 * (QE) Geologia
-* (QK) Botanica
 * (QL) Zoologia
 * (QM) Anatomia umana
 * (QP) Fisiologia
-* (QR) Microbiologia
