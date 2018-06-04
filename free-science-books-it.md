@@ -43,6 +43,12 @@
 * [Appunti di Zoologia generale](http://appuntidizoologia.blogspot.com)
 
 
+## (QM) Anatomia umana
+
+* [Compendio di Anatomia umana](http://www.massimofranzin.it/pdf/dispensaanatomiaumanacompendioriassunto.pdf) - M. Franzin (PDF)
+* [Quiz di Anatomia e Fisiologia](http://www.tuttocina.it/corsi/anatomia/quiz_anatomia_generale.pdf) - (PDF)
+
+
 ## (QR) Microbiologia
 
 * [Appunti di Microbiologia](http://www.istitutopalatucci.it/libri/scienze/Microbiologia-Perin.pdf) - G. Perin (PDF)
@@ -52,5 +58,4 @@
 
 * (QE) Geologia
 * (QL) Zoologia
-* (QM) Anatomia umana
 * (QP) Fisiologia
