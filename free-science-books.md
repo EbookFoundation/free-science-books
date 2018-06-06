@@ -12,7 +12,7 @@
 * [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
 * [Stacks Project](http://stacks.math.columbia.edu)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
-* [Understangind Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
+* [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
 
 
 ## (QB) Astronomy
