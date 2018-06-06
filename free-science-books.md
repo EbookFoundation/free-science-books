@@ -9,6 +9,8 @@
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
 * [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
+* [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Mic
+hael Stone and Paul Goldbart (PDF)
 * [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
 * [Stacks Project](http://stacks.math.columbia.edu)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
@@ -26,7 +28,14 @@
 
 ## (QC) Physics
 
+* [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
+* [Fundamental Physics for Level 0 - Teaching Guide](https://oup.com.pk/media/teaching-guides/Fundamental%20Biology%20Physics%20Chemistry/Fundamental%20Physics%20for%20O%20Level%20Teaching%20Guide.pdf) - Ian Collins (PDF)
+* [GRE Physics Test Practice Book](https://www.ets.org/s/gre/pdf/practice_book_physics.pdf) - (PDF)
+* [Introductory Physics I - Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf) - R.G. Brown (PDF)
+* [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
+* [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
+* [The Physics Hypertextbook](https://physics.info)
 
 
 ## (QD) Chemistry
