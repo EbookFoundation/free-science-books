@@ -35,7 +35,7 @@ hael Stone and Paul Goldbart (PDF)
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
-* [The Physics Hypertextbook](https://physics.info/)
+* [The Physics Hypertextbook](https://physics.info)
 
 
 ## (QD) Chemistry
