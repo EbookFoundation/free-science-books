@@ -38,8 +38,8 @@
 * [Appunti e formulario di Geologia Applicata](http://geologia2000.anisn.it/GAPPLI.pdf) - A. Nardi & C(PDF)
 * [Dispense di Idrogeologia Applicata - Parte I](http://www.engeology.eu/sites/default/files/didattica-attach/idrogeologia_applicata_i.pdf) - V. Francani e L. Alberti (PDF)
 * [Dispense di Idrogeologia Applicata - Parte II](http://www.engeology.eu/sites/default/files/didattica-attach/5_disp_idrogeo_parte_ii.pdf) - V. Francani e L. Alberti (PDF)
-* [Idrogeologia delle aree urbane](http://www.engeology.eu/sites/default/files/didattica-attach/idrogeologia_urbana.pdf.pdf) - V. Francani (PDF)
 * [Gli studi idrogeologici - Principi di base](http://www.engeology.eu/sites/default/files/didattica-attach/5_disp_idrogeo_parte_iii.pdf) - V. Francani e L. Alberti (PDF)
+* [Idrogeologia delle aree urbane](http://www.engeology.eu/sites/default/files/didattica-attach/idrogeologia_urbana.pdf.pdf) - V. Francani (PDF)
 
 
 ## (QH) Storia naturale - Biologia
