@@ -4,6 +4,8 @@
 
 ## (QA) Mathematics
 
+* [Advanced Calculus](http://www.oercommons.org/courses/advanced-calculus/view) - Lynn H. Loomis and Shlomost Ernberg (PDF)
+* [Basic Concepts of Mathematics](http://www.trillia.com/dA/zakon-basic-a4-one.pdf) - Elias Zakon (PDF)
 * [Book Of Proof (2013)](http://www.people.vcu.edu/~rhammack/BookOfProof) - Richard Hammack
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
@@ -11,6 +13,7 @@
 * [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
 * [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Mic
 hael Stone and Paul Goldbart (PDF)
+* [Mathematics Formulary](https://johanw.home.xs4all.nl/math.pdf) - J.C.A. Wevers (PDF)
 * [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
 * [Stacks Project](http://stacks.math.columbia.edu)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
@@ -19,6 +22,7 @@ hael Stone and Paul Goldbart (PDF)
 
 ## (QB) Astronomy
 
+* [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
 * [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
 * [Astronomy (1877)](https://unglue.it/work/81942/) - Sir Robert Stawell Ball 
 * [Astronomy (1915)](https://unglue.it/work/81943/) - Harold Jacoby
@@ -41,8 +45,11 @@ hael Stone and Paul Goldbart (PDF)
 ## (QD) Chemistry
 
 * [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
+* [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
+* [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
 * [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
+* [Introduction to Chemistry](http://openedgroup.org/books/Chemistry.pdf) - Tracy Poulsen (PDF)
 
 
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
