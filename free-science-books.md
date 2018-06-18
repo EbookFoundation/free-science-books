@@ -44,6 +44,7 @@ hael Stone and Paul Goldbart (PDF)
 * [Introductory Physics I - Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf) - R.G. Brown (PDF)
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
+* [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
 * [The Physics Hypertextbook](https://physics.info)
@@ -59,6 +60,17 @@ hael Stone and Paul Goldbart (PDF)
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
 
 
+## (QE) Geology
+
+* [An Introduction to Geology](http://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher
+* [Physical Geology](https://opentextbc.ca/geology/open/download?type=pdf) - Steven Earle (PDF)
+
+
+## (QK) Botany
+
+* [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
+
+
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
 
 ## (TJ) Mechanical engineering and machinery (includes Energy Conservation)
@@ -71,9 +83,7 @@ hael Stone and Paul Goldbart (PDF)
 
 # - Sections to add
 
-* (QE) Geology 
 * (QH) Natural history
-* (QK) Botany
 * (QL) Zoology
 * (QM) Human anatomy
 * (QP) Physiology
