@@ -27,6 +27,7 @@
 * [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
 * [Fisica per la scuola superiore](https://www.matematicamente.it/staticfiles/manuali-cc/G.Troiano-Fisica-superiori.pdf) - G. Troiano (PDF)
 * [Fisica sperimentale](https://www.matematicamente.it/staticfiles/manuali-cc/Fisica-Sperimentale-dic2016.pdf) - G. Organtini (PDF)
+* [Fondamenti di Fisica Computazionale](http://www.dsf.unica.it/~fiore/ffc.pdf) - F. Ricci e V. Fiorentini (PDF)
 
 
 ## (QD) Chimica
