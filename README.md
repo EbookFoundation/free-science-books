@@ -1,3 +1,7 @@
+# Free Science Books
+
+[View the English list](/free-science-books.md)
+
 ## Intro
 
 This list was inspired by [free-programming-books](https://github.com/EbookFoundation/free-programming-books/). A few of us decided to try it for Science books.
@@ -30,6 +34,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Chinese: [github](/free-science-books-zh.md)
 + Czech: [github](/free-science-books-cs.md)
 + Dutch: [github](/free-science-books-nl.md)
++ English: [github](/free-science-books.md)
 + French: [github](/free-science-books-fr.md)
 + German: [github](/free-science-books-de.md)
 + Greek: [github](/free-science-books-gr.md)
@@ -54,3 +59,4 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 ## About [The Free Ebook Foundation](http://ebookfoundation.org/)
 
 The Free Ebook Foundation was founded as a Non-Profit Corporation in 2015 to be a home for [Unglue.it](https://unglue.it), [GITenberg](http://www.gitenberg.org), and to promote the sustainable funding and distribution of free ebooks.
+
