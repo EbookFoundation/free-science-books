@@ -15,9 +15,32 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
     + **Books** : PDF, HTML, DJVU, ePub, a gitBook.io based site, a Git repo, etc.
     + **Courses** : A course is a well designed learning material which was made by an organized group and is availabe for a long time where there is no interactive tool embeded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.
 
-4. We prefer small commits rather than one large commit in a pull request. If you don't have the time to make small commit, add an issue with all the links included and we'll add them for you.
-5. Use our standard for formatting the .md file. Check it out: [Formatting](#formatting)
-6. Must use ***alphabetic*** order.
+4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
+
+5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
+
+### Guidelines
+- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
+- we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
+- insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
+- use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+    + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
+- always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
+- on root domains, strip the trailing slash: `http://example.com` instead of `http://example.com/`
+- always prefer the shortest link: `http://example.com/dir/` is better than `http://example.com/dir/index.html`
+    + no URL shortener links
+- usually prefer the "current" link over the "version" one: `http://example.com/dir/book/current/` is better than `http://example.com/dir/book/v1.0.0/index.html`
+- if a link has an expired certificate/self-signed certificate/SSL issue of any other kind:
+  1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices)
+  2. *leave it* if no `http` version but link still accessible through `https` by adding an exception to the browser or ignoring the warning
+  3. *remove it* otherwise
+- if a link exists in multiple format, add a separate link with a note about each format
+- if a resource exists at different places on the Internet
+    + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
+- prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
+- if the book is older, include the publication date with the title. 
+- include the author name or names where appropriate. You can shorten author lists with "et al."
 
 ### Scope
 + If a book would be catalogued in an Library of Congress category other than [Science](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf), [Medicine](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf), or [Technology](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf), for example, ["MUSIC AND BOOKS ON MUSIC"](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_m.pdf) then it's out of scope for this list.
@@ -25,7 +48,7 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
 + If a book or resource is a "free-programming" book or resource, it should [go there](https://github.com/vhf/free-programming-books/). Math books might go both places, but not computer science.
 
 ### Formatting
-+ All lists are `.md` files. Try to learn Github's Markdown syntax. It's simple!
++ All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/)  syntax. It's simple!
 + All the lists start with an Index, the idea is to show all of sections and subsections there, so it's important to have an index for each section. Right now it's alphabetized, so please use alphabetic order.
 + Sections are using level 3 heading (in HTML is `<h3>`, in Markdown is `###`), and subsections are using level 4 (in HTML is `<h4>`, in Markdown is `####`).
 
@@ -35,30 +58,57 @@ The idea is to have
 + `0` empty line between each book in 1 section.
 + `1` empty line at the end of each `.md` file.
 
-Like this example:
-```markdown
-[...]
-* [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
+Example:
 
+    [...]
+    * [An Awesome Book](http://example.com/example.html)
+                                    (blank line)
+                                    (blank line)
+    ### Example
+                                    (blank line)
+    * [Another Awesome Book](http://example.com/book.html)
+    * [Some Other Book](http://example.com/other.html)
 
-### DTrace
-
-* [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-* [Some Other Book](http://so.me/other/book.html)
-
-BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)(PDF)
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) (PDF)
-
-BAD : * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)- Robert
-GOOD: * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html) - Robert
+- Don't put spaces between `]` and `(`
 
 ```
+BAD : * [Another Awesome Book] (http://example.com/book.html)
+GOOD: * [Another Awesome Book](http://example.com/book.html)
+```
 
-#### What to do about multiple links to the same book ([#1192](https://github.com/vhf/free-programming-books/issues/1192#issuecomment-135969100))
-+ if its a different edition, add separate link with a note about its edition
-+ if its the same book but in a better format, replace link
-+ if one is a webpage and the other is pdf, add separate link with a note about its format
+- If you include the author, use ` - ` (a dash surrounded by single spaces)
 
-And that's it! Simple, easy and lovely...
+```
+BAD : * [Another Awesome Book](http://example.com/book.html)- John Doe
+GOOD: * [Another Awesome Book](http://example.com/book.html) - John Doe
+```
 
+- Put a single space between the link and its format
+
+```
+BAD : * [Another Awesome Book](http://example.com/book.pdf)(PDF)
+GOOD: * [Another Awesome Book](http://example.com/book.pdf) (PDF)
+```
+
+- Author comes before format:
+
+```
+BAD : * [Another Awesome Book](http://example.com/book.pdf)- John Doe
+GOOD: * [Another Awesome Book](http://example.com/book.pdf) - John Doe (PDF)
+```
+
+- Multiple formats:
+
+```
+BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+BAD : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe (download site)
+GOOD: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+```
+
+- Include publication year in title for older books:
+
+```
+BAD: * [Another Awesome Book](http://example.com/book.html) - John Doe - 1970
+GOOD: * [Another Awesome Book (1970)](http://example.com/book.html) - John Doe
+```
 We hope you contribute to this great repository. :+1:

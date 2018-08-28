@@ -4,11 +4,11 @@
 
 ## Intro
 
-This list was inspired by [free-programming-books](https://github.com/vhf/free-programming-books/). A few of us decided to try it for Science books.
+This list was inspired by [free-programming-books](https://github.com/EbookFoundation/free-programming-books/). A few of us decided to try it for Science books.
 
-Moved to GitHub for collaborative updating and for the site mentioned above.
 
 ### How To Contribute
+
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Fork](https://help.github.com/articles/fork-a-repo)
 - Read the [TODO](/TODO.md) file(Adding new books is our #1 priority, but things like Alphabetizing are important, too.)
@@ -20,6 +20,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 
 ### How to Share
+
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-science-books%0AFree%20Science%20Books)
 + [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/EbookFoundation/free-science-books&p[images][0]=&p[title]=Free%20Science%20Books&p[summary]=)
 + [Share on Google Plus](https://plus.google.com/share?url=https://github.com/EbookFoundation/free-science-books)
@@ -27,10 +28,12 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 
 ### In Other  Languages
+
 + Azerbaijan: [github](/free-science-books-az.md)
 + Bulgarian: [github](/free-science-books-bg.md)
 + Chinese: [github](/free-science-books-zh.md)
 + Czech: [github](/free-science-books-cs.md)
++ Dutch: [github](/free-science-books-nl.md)
 + English: [github](/free-science-books.md)
 + French: [github](/free-science-books-fr.md)
 + German: [github](/free-science-books-de.md)
@@ -54,4 +57,6 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 
 ## About [The Free Ebook Foundation](http://ebookfoundation.org/)
+
 The Free Ebook Foundation was founded as a Non-Profit Corporation in 2015 to be a home for [Unglue.it](https://unglue.it), [GITenberg](http://www.gitenberg.org), and to promote the sustainable funding and distribution of free ebooks.
+
