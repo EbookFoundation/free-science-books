@@ -4,13 +4,19 @@
 
 ## (QA) Mathematics
 
+* [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer
+* [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Advanced Calculus](http://www.oercommons.org/courses/advanced-calculus/view) - Lynn H. Loomis and Shlomost Ernberg (PDF)
 * [An Introduction to Mathematical Reasoning](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf) - Peter J. Eccles (PDF)
+* [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
+* [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Basic Concepts of Mathematics](http://www.trillia.com/dA/zakon-basic-a4-one.pdf) - Elias Zakon (PDF)
+* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
 * [Book Of Proof (2013)](http://www.people.vcu.edu/~rhammack/BookOfProof) - Richard Hammack
 * [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
+* [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springe
 * [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
