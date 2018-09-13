@@ -8,7 +8,8 @@
 * [An Introduction to Mathematical Reasoning](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf) - Peter J. Eccles (PDF)
 * [Basic Concepts of Mathematics](http://www.trillia.com/dA/zakon-basic-a4-one.pdf) - Elias Zakon (PDF)
 * [Book Of Proof (2013)](http://www.people.vcu.edu/~rhammack/BookOfProof) - Richard Hammack
-* [Calculus] (https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
+* [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
+* [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springe
