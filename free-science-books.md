@@ -25,6 +25,10 @@
 * [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 * [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 * [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
+* [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
+* [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/booklinear.html) - Dr. Arbind K Lal, IIT Kanpur (PDF)
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
+* [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
 * [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
 * [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Michael Stone and Paul Goldbart (PDF)
