@@ -30,10 +30,10 @@
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
 * [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
+* [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
 * [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Michael Stone and Paul Goldbart (PDF)
 * [Mathematics Formulary](https://johanw.home.xs4all.nl/math.pdf) - J.C.A. Wevers (PDF)
-* [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
