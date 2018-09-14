@@ -33,8 +33,15 @@
 * [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
 * [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Michael Stone and Paul Goldbart (PDF)
 * [Mathematics Formulary](https://johanw.home.xs4all.nl/math.pdf) - J.C.A. Wevers (PDF)
+* [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
+* [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+* [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
+* [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
+* [Probability and Statistics Cookbook](http://statistics.zone)
+* [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Stacks Project](http://stacks.math.columbia.edu)
+* [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [The Handbook of Essential Mathematics ](https://florida.theorangegrove.org/og/file/3a8c652c-11d0-e967-95fb-b5bbae2586d6/1/math_handbook.pdf) - John C. Sparks (PDF)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
