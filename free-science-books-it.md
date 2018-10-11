@@ -9,6 +9,7 @@
 * [Dal problema al modello matematico Volume 1 – Logica e Geometria Analitica](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v1-4e-A2016.pdf) - C. Di Stefano (PDF)
 * [Dal problema al modello matematico Volume 2 – Funzioni esponenziali e logaritmiche, Geometria dello spazio, Trigonometria, Successioni di numeri reali](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v2-4e-A2016.pdf) - C. Di Stefano (PDF)
 * [Dal problema al modello matematico Volume 3 – Funzioni, Calcolo differenziale, Calcolo Integrale, Equazioni Differenziali, Statistica ](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v3-4e-A2016.pdf) - C. Di Stefano (PDF)
+* [Eserciziario di Analisi Matematica I](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid259140.pdf) - m. Eleuteri (PDF)
 * [Matematica C3 – Algebra 1](https://www.matematicamente.it/staticfiles/matematica-C3/algebra1_6ed_set2017.pdf) - AA.VV. (PDF)
 * [Matematica di Base](http://www.batmath.it/matematica/mat_base/mbase.pdf) - L. Battaia (PDF)
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
