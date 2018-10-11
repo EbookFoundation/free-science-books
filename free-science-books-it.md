@@ -23,7 +23,7 @@
 
 ## (QC) Fisica
 
-* [Appunti ed Esercizi di Fisica Tecnica e Macchine Termiche](http://www.itistulliobuzzi.it/buzziwebsite/triennio/meccanica/4N/fisica%20tecnica.pdf) - P. Di Marco (PDF)
+* [Appunti ed Esercizi di Fisica Tecnica e Macchine Termiche](http://www.den.unipi.it/paolo.dimarco/eps/ftmtidx1011.htm) - P. Di Marco (PDF)
 * [FI.CO. 1 (“Fisica Comprensibile” per geologi)](http://geologia2000.anisn.it/FICO1.pdf) - A. Nardi (PDF)
 * [FI.CO. 2 (“Fisica Comprensibile” per geologi)](http://geologia2000.anisn.it/FICO2.pdf) - A. Nardi (PDF)
 * [Fisica C3, Elettromagnetismo, relatività e quanti](https://www.matematicamente.it/staticfiles/manuali-cc/Macchioro-FisicaC3-V.pdf) - AA.VV. (PDF)
