@@ -1,5 +1,4 @@
-TODO
-====
+# TODO
 
-- [ ] Add new books
-- [ ] Check current issues
+* Add new books
+* Check current issues
