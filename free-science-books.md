@@ -55,6 +55,7 @@
 * [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
 * [Astronomy (1877)](https://unglue.it/work/81942/) - Sir Robert Stawell Ball 
 * [Astronomy (1915)](https://unglue.it/work/81943/) - Harold Jacoby
+* [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
 * [Elements of astronomy (1836)](https://unglue.it/work/81958/) - John Hubbard Wilkins
 * [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://unglue.it/work/145858/) - Dylan Steele
 
