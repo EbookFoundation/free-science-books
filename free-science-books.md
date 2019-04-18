@@ -79,6 +79,9 @@
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
 * [The Physics Hypertextbook](https://physics.info)
+* [University Physics, Volume 1](https://openstax.org/details/books/university-physics-volume-1) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
+* [University Physics, Volume 2](https://openstax.org/details/books/university-physics-volume-2) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
+* [University Physics, Volume 3](https://openstax.org/details/books/university-physics-volume-3) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
 
 
 ## (QD) Chemistry
