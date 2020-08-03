@@ -1,6 +1,24 @@
 **Note**: In order of [Library of Congress Classification](http://www.loc.gov/catdir/cpso/lcco/)
 
-# [(Q)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
+
+# [(B)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf)  PHILOSOPHY, PSYCHOLOGY, RELIGION
+
+## (BF) Psychology
+
+* [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
+* [Cognitive Science](http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/Friedenberg_Cognitive%20science.pdf) - Jay Friedenberg and Gordon Silverman (PDF)
+* [ePsych](https://epsych.msstate.edu/) - Gary L. Bradshaw
+* [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/) - Raul Rojas
+* [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
+* [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) - British Neuroscience Association European Dana Alliance for the Brain (PDF)
+* [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) - John H. Byrne
+* [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey
+* [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler
+* [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
+* [The Handbook of Brain Theory and Neural Networks](https://doc.lagout.org/science/Artificial%20Intelligence/Neural%20networks/The%20Handbook%20Of%20Brain%20Theory%20And%20Neural%20Networks%202Nd%20Ed%20-%20Michael%20A%20Arbib.pdf) - Michael A. Arbib (PDF)
+* [Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf) - Peter Dayan and LF Abbott (PDF)
+
+# [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
 
 ## (QA) Mathematics
 
@@ -77,6 +95,7 @@
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
+* [Structure and Interpretation of Classical Mechancics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman and Jack Wisdom
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
 * [The Physics Hypertextbook](https://physics.info)
 * [University Physics, Volume 1](https://openstax.org/details/books/university-physics-volume-1) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
