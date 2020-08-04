@@ -5,11 +5,11 @@
 
 ## (BF) Psychology
 
-* [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
 * [Cognitive Science](http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/Friedenberg_Cognitive%20science.pdf) - Jay Friedenberg and Gordon Silverman (PDF)
-* [ePsych](https://epsych.msstate.edu/) - Gary L. Bradshaw
+* [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
+* [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw
 * [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/) - Raul Rojas
-* [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
+* [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
 * [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) - British Neuroscience Association European Dana Alliance for the Brain (PDF)
 * [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) - John H. Byrne
 * [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey
@@ -17,6 +17,7 @@
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
 * [The Handbook of Brain Theory and Neural Networks](https://doc.lagout.org/science/Artificial%20Intelligence/Neural%20networks/The%20Handbook%20Of%20Brain%20Theory%20And%20Neural%20Networks%202Nd%20Ed%20-%20Michael%20A%20Arbib.pdf) - Michael A. Arbib (PDF)
 * [Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf) - Peter Dayan and LF Abbott (PDF)
+
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
 
