@@ -14,7 +14,6 @@
 * [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey
 * [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
-* [Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf) - Peter Dayan and LF Abbott (PDF)
 
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
