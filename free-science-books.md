@@ -11,6 +11,7 @@
 * [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
 * [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) - British Neuroscience Association European Dana Alliance for the Brain (PDF)
 * [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) - John H. Byrne
+* [Probabilistic Models of Cognition](https://probmods.org) - Noah D. Goodman et al.
 * [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey
 * [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
