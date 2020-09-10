@@ -81,6 +81,7 @@
 
 * [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
 * [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
+* [Atomic and Molecular Physics - Lecture Notes](http://www.yorku.ca/tomk/PHYS4011-W13.pdf) - Tom Kirchner (PDF)
 * [Classical Dynamics](http://www.damtp.cam.ac.uk/user/tong/dynamics/clas.pdf) - David Tong (PDF)
 * [Classical Mechanics](http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf) - Joel A. Shapiro (PDF)
 * [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity/dynrel.pdf) - David Tong (PDF)
