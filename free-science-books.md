@@ -91,6 +91,7 @@
 * [GRE Physics Test Practice Book](https://www.ets.org/s/gre/pdf/practice_book_physics.pdf) - (PDF)
 * [Introduction to General Relativity](http://www.staff.science.uu.nl/~hooft101/lectures/genrel_2013.pdf) - Gerard ’t Hooft (PDF)
 * [Introductory Physics I - Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf) - R.G. Brown (PDF)
+* [Mathematical Methods in Physics - Course Notes](https://www.pa.ucla.edu/faculty-websites/dhoker-lecture-notes/graduate-courses/231A-lecture-notes-15.pdf) - Eric D’Hoker (PDF)
 * [Motion Mountain Physics](http://www.motionmountain.net) - Christoph Schiller
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
