@@ -4,6 +4,7 @@
 
 ## (QA) Matematica
 
+* [Analisi Matematica I](http://calvino.polito.it/~fagnani/AnMatI/Analisi%20I.pdf) - F. Fagnani - G. Grillo - Dipartimento di Matematica Politecnico di Torino (PDF)
 * [Appunti del corso di Matematica Generale](http://www.batmath.it/matematica/0-appunti_uni/mat_gen.pdf) - L. Battaia - Università degli Studi di Udine - Sede di Pordenone (PDF)
 * [Appunti di Matematica](https://www.unich.it/sites/default/files/allegatiparagrafo/06-10-2015/1.pdf) - S. Doria (PDF)
 * [Dal problema al modello matematico Volume 1 – Logica e Geometria Analitica](https://www.matematicamente.it/staticfiles/manuali-cc/DiStefano-problema_modello-v1-4e-A2016.pdf) - C. Di Stefano (PDF)
