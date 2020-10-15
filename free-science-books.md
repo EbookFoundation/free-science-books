@@ -124,9 +124,41 @@
 * [Physical Geology](https://opentextbc.ca/geology/open/download?type=pdf) - Steven Earle (PDF)
 
 
+## (QH) Natural history
+
+* [Selected Records of Reptiles and Amphibians from Kansas](https://www.gutenberg.org/ebooks/34554) - John Breukelman and Hobart Smith
+
+
 ## (QK) Botany
 
 * [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
+
+
+## (QL) Zoology
+
+* [Mammals of the Southwest Mountains and Mesas](https://www.gutenberg.org/ebooks/50822) - George Olin
+
+
+## (QM) Human anatomy
+
+* [The Anatomy of the Human Peritoneum and Abdominal Cavity](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
+
+
+## (QP) Physiology
+
+* [The Glands Regulating Personality](https://www.gutenberg.org/ebooks/10266) - Louis Berman
+
+
+## (QR) Microbiology
+
+* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et all. (PDF)
+
+
+# [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine 
+
+## (RT) Nursing
+
+* [Nursing as Caring: A Model for Transforming Practice](https://www.gutenberg.org/ebooks/42988) - by Boykin and Schoenhofer
 
 
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
@@ -137,15 +169,5 @@
 * [Our Car as Power Plant (2014)](https://unglue.it/work/129373/) - Ad van Wijk and Leendert Verhoef 
 * [Sustainable Energy - without the hot air (2009)](https://unglue.it/work/140777/) - David J. C. MacKay
 * [Understanding the Global Energy Crisis (2014)](https://unglue.it/work/136212/) - Eugene D. Coyle and Richard A. Simmons
-
-
-# - Sections to add
-
-* (QH) Natural history
-* (QL) Zoology
-* (QM) Human anatomy
-* (QP) Physiology
-* (QR) Microbiology
-* [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine (PDF)
 
 
