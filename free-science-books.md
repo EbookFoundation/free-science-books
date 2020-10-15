@@ -128,6 +128,11 @@
 * [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
 
 
+## (QR) Microbiology
+
+* [Microbiology (OpenStax)](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Anh-Hue Thi Tu et all. (PDF)
+
+
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
 
 ## (TJ) Mechanical engineering and machinery (includes Energy Conservation)
@@ -144,10 +149,6 @@
 * (QL) Zoology
 * (QM) Human anatomy
 * (QP) Physiology
-
-* (QR) Microbiology
-
-* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Anh-Hue Thi Tu et all. (PDF)
 
 * [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine (PDF)
 
