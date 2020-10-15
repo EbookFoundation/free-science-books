@@ -84,6 +84,7 @@
 * [Atomic and Molecular Physics - Lecture Notes](http://www.yorku.ca/tomk/PHYS4011-W13.pdf) - Tom Kirchner (PDF)
 * [Classical Dynamics](http://www.damtp.cam.ac.uk/user/tong/dynamics/clas.pdf) - David Tong (PDF)
 * [Classical Mechanics](http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf) - Joel A. Shapiro (PDF)
+* [College Physics](https://openstax.org/details/books/college-physics) - Paul Peter Urone, Roger Hinrichs, et al. (PDF)
 * [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity/dynrel.pdf) - David Tong (PDF)
 * [Fluid Dynamics - Lecture Notes](https://www.iare.ac.in/sites/default/files/FD_IARE_LECTURE%20_NOTES.pdf) - Shiva Prasad (PDF)
 * [Fundamental Physics for Level 0 - Teaching Guide](https://oup.com.pk/media/teaching-guides/Fundamental%20Biology%20Physics%20Chemistry/Fundamental%20Physics%20for%20O%20Level%20Teaching%20Guide.pdf) - Ian Collins (PDF)
@@ -128,11 +129,6 @@
 * [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
 
 
-## (QR) Microbiology
-
-* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et all. (PDF)
-
-
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
 
 ## (TJ) Mechanical engineering and machinery (includes Energy Conservation)
@@ -149,6 +145,7 @@
 * (QL) Zoology
 * (QM) Human anatomy
 * (QP) Physiology
+* (QR) Microbiology
 
 * [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine (PDF)
 
