@@ -134,7 +134,7 @@
 ## (QL) Zoology
 
 
-##* (QM) Human anatomy
+## (QM) Human anatomy
 
 
 ## (QP) Physiology
