@@ -144,7 +144,11 @@
 * (QL) Zoology
 * (QM) Human anatomy
 * (QP) Physiology
+
 * (QR) Microbiology
+
+* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Anh-Hue Thi Tu et all. (PDF)
+
 * [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine (PDF)
 
 
