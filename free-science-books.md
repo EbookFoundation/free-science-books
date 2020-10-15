@@ -93,6 +93,7 @@
 * [Introductory Physics I - Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf) - R.G. Brown (PDF)
 * [Lecture Notes in Quantum Mechanics](https://physics.bgu.ac.il/~dcohen/ARCHIVE/qmc.pdf) - Doron Cohen (PDF)
 * [Lecture Notes on General Relativity](https://home.uni-leipzig.de/~tet/wp-content/uploads/2014/04/GR2015_0903.pdf) - Hollands and Sanders (PDF)
+* [Lecture Notes on Thermodynamics](http://www.crectirupati.com/sites/default/files/lecture_notes/TD-lecture%20notes.pdf) - Munirathnam (PDF)
 * [Mathematical Methods in Physics - Course Notes](https://www.pa.ucla.edu/faculty-websites/dhoker-lecture-notes/graduate-courses/231A-lecture-notes-15.pdf) - Eric D’Hoker (PDF)
 * [Motion Mountain Physics](http://www.motionmountain.net) - Christoph Schiller
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
