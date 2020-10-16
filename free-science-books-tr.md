@@ -2,4 +2,4 @@
 
 ## (T) Teknoloji Genel 
                                 
-* [Veri Korumaya Giriş](https://ekitap.alternatifbilisim.org/pdf/veri-korumaya-giris.pdf)
+* [Veri Korumaya Giriş](https://ekitap.alternatifbilisim.org/pdf/veri-korumaya-giris.pdf) - Alternatif Bilişim Derneği (PDF)
