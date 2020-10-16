@@ -80,32 +80,62 @@
 ## (QC) Physics
 
 * [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
+
 * [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
+
 * [Atomic and Molecular Physics - Lecture Notes](http://www.yorku.ca/tomk/PHYS4011-W13.pdf) - Tom Kirchner (PDF)
+
 * [Classical Dynamics](http://www.damtp.cam.ac.uk/user/tong/dynamics/clas.pdf) - David Tong (PDF)
+
 * [Classical Mechanics](http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf) - Joel A. Shapiro (PDF)
+
 * [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity/dynrel.pdf) - David Tong (PDF)
+
 * [Fluid Dynamics - Lecture Notes](https://www.iare.ac.in/sites/default/files/FD_IARE_LECTURE%20_NOTES.pdf) - Shiva Prasad (PDF)
+
 * [Fundamental Physics for Level 0 - Teaching Guide](https://oup.com.pk/media/teaching-guides/Fundamental%20Biology%20Physics%20Chemistry/Fundamental%20Physics%20for%20O%20Level%20Teaching%20Guide.pdf) - Ian Collins (PDF)
+
 * [Fusion Physics](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1562_web.pdf) - (PDF)
+
 * [GRE Physics Test Practice Book](https://www.ets.org/s/gre/pdf/practice_book_physics.pdf) - (PDF)
+
 * [Introduction to General Relativity](http://www.staff.science.uu.nl/~hooft101/lectures/genrel_2013.pdf) - Gerard ’t Hooft (PDF)
+
 * [Introductory Physics I - Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf) - R.G. Brown (PDF)
+
 * [Lecture Notes in Quantum Mechanics](https://physics.bgu.ac.il/~dcohen/ARCHIVE/qmc.pdf) - Doron Cohen (PDF)
+
 * [Lecture Notes on General Relativity](https://home.uni-leipzig.de/~tet/wp-content/uploads/2014/04/GR2015_0903.pdf) - Hollands and Sanders (PDF)
+
 * [Lecture Notes on Thermodynamics](http://www.crectirupati.com/sites/default/files/lecture_notes/TD-lecture%20notes.pdf) - Munirathnam (PDF)
+
 * [Mathematical Methods in Physics - Course Notes](https://www.pa.ucla.edu/faculty-websites/dhoker-lecture-notes/graduate-courses/231A-lecture-notes-15.pdf) - Eric D’Hoker (PDF)
+
 * [Motion Mountain Physics](http://www.motionmountain.net) - Christoph Schiller
+
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
+
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
+
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
+
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
+
 * [Structure and Interpretation of Classical Mechancics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman and Jack Wisdom
+
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
+
 * [The Physics Hypertextbook](https://physics.info)
+
 * [University Physics, Volume 1](https://openstax.org/details/books/university-physics-volume-1) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
+
 * [University Physics, Volume 2](https://openstax.org/details/books/university-physics-volume-2) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
+
 * [University Physics, Volume 3](https://openstax.org/details/books/university-physics-volume-3) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
+
+* [Quantum : Einstein,Bohr and the great debate about the nature of reality](https://www.pdfdrive.com/quantum-einstein-bohr-and-the-great-debate-about-the-nature-of-reality-e193612567.html) - Manjit Kumar
+
+  
 
 
 ## (QD) Chemistry
