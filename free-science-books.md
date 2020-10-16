@@ -125,7 +125,7 @@
 
 ## (QH) Natural history
 
-* [Selected Records of Reptiles and Amphibians from Kansas](https://www.gutenberg.org/ebooks/34554) - John Breukelman and Hobart Smith
+* [Selected Records of Reptiles and Amphibians from Kansas (1946)](https://www.gutenberg.org/ebooks/34554) - John Breukelman and Hobart Smith
 
 
 ## (QK) Botany
@@ -135,17 +135,17 @@
 
 ## (QL) Zoology
 
-* [Mammals of the Southwest Mountains and Mesas](https://www.gutenberg.org/ebooks/50822) - George Olin
+* [Mammals of the Southwest Mountains and Mesas (1961)](https://www.gutenberg.org/ebooks/50822) - George Olin
 
 
 ## (QM) Human anatomy
 
-* [The Anatomy of the Human Peritoneum and Abdominal Cavity](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
+* [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
 
 
 ## (QP) Physiology
 
-* [The Glands Regulating Personality](https://www.gutenberg.org/ebooks/10266) - Louis Berman
+* [The Glands Regulating Personality (1922)](https://www.gutenberg.org/ebooks/10266) - Louis Berman
 
 
 ## (QR) Microbiology
@@ -157,7 +157,7 @@
 
 ## (RT) Nursing
 
-* [Nursing as Caring: A Model for Transforming Practice](https://www.gutenberg.org/ebooks/42988) - by Boykin and Schoenhofer
+* [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - by Boykin and Schoenhofer
 
 
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
