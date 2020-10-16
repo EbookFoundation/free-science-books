@@ -119,6 +119,8 @@
 
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
 
+* [Quantum : Einstein,Bohr and the great debate about the nature of reality](https://www.pdfdrive.com/quantum-einstein-bohr-and-the-great-debate-about-the-nature-of-reality-e193612567.html) - Manjit Kumar (PDF)
+
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
 
 * [Structure and Interpretation of Classical Mechancics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman and Jack Wisdom
@@ -133,7 +135,7 @@
 
 * [University Physics, Volume 3](https://openstax.org/details/books/university-physics-volume-3) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
 
-* [Quantum : Einstein,Bohr and the great debate about the nature of reality](https://www.pdfdrive.com/quantum-einstein-bohr-and-the-great-debate-about-the-nature-of-reality-e193612567.html) - Manjit Kumar
+  
 
   
 
