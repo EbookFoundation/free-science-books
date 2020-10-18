@@ -54,6 +54,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + Swedish: [github](/free-science-books-se.md)
 + Turkish: [github](/free-science-books-tr.md)
 + Ukrainian: [github](/free-science-books-ua.md)
++ Urdu: [github](/free-science-books-ur.md)
 
 
 ## About [The Free Ebook Foundation](http://ebookfoundation.org/)
