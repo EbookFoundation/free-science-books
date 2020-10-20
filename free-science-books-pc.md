@@ -17,7 +17,7 @@
 ### Physics
 
 * [NCERT Physics Part-1 | Class 11 | English](https://ncert.nic.in/textbook.php?keph1=1-8) (PDF)
-* [Physics for Beginners | English](http://www.thenatureofthings.info/physics_for_beginners-_PDf(copy).pdf) (PDF)
 * [NCERT Physics Part-1 | Class 12 | English](https://ncert.nic.in/textbook.php?leph1=1-8) (PDF)
 * [NCERT Physics Part-2 | Class 11 | English](https://ncert.nic.in/textbook.php?keph2=1-7) (PDF)
 * [NCERT Physics Part-2 | Class 12 | English](https://ncert.nic.in/textbook.php?leph2=1-6) (PDF)
+* [Physics for Beginners | English](http://www.thenatureofthings.info/physics_for_beginners-_PDf(copy).pdf) (PDF)
