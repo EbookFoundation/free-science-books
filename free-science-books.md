@@ -96,7 +96,12 @@
 * [Lecture Notes on Thermodynamics](http://www.crectirupati.com/sites/default/files/lecture_notes/TD-lecture%20notes.pdf) - Munirathnam (PDF)
 * [Mathematical Methods in Physics - Course Notes](https://www.pa.ucla.edu/faculty-websites/dhoker-lecture-notes/graduate-courses/231A-lecture-notes-15.pdf) - Eric D’Hoker (PDF)
 * [Motion Mountain Physics](http://www.motionmountain.net) - Christoph Schiller
+* [NCERT Physics Part-1 | Class 11 | English](https://ncert.nic.in/textbook.php?keph1=1-8) (PDF)
+* [NCERT Physics Part-1 | Class 12 | English](https://ncert.nic.in/textbook.php?leph1=1-8) (PDF)
+* [NCERT Physics Part-2 | Class 11 | English](https://ncert.nic.in/textbook.php?keph2=1-7) (PDF)
+* [NCERT Physics Part-2 | Class 12 | English](https://ncert.nic.in/textbook.php?leph2=1-6) (PDF)
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
+* [Physics for Beginners | English](http://www.thenatureofthings.info/physics_for_beginners-_PDf(copy).pdf) (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
@@ -113,9 +118,15 @@
 * [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
 * [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
 * [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
+* [Chemistry Overview | English](https://web.ung.edu/media/Chemistry2/Chemistry-LR.pdf) (PDF)
 * [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
-* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
+* [General Chemistry | English](https://www.wiley.com/college/sc/klein/doc/c01_AReviewOfGeneralChemistry_Klein.pdf) (PDF)
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
+* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
+* [NCERT Chemistry Part-1 | Class 11 | English](https://ncert.nic.in/textbook/pdf/kech1ps.pdf) (PDF)
+* [NCERT Chemistry Part-1 | Class 12 | English](https://ncert.nic.in/textbook.php?lech1=ps-9) (PDF)
+* [NCERT Chemistry Part-2 | Class 11 | English](https://ncert.nic.in/textbook/pdf/kech2ps.pdf) (PDF)
+* [NCERT Chemistry Part-2 | Class 12 | English](https://ncert.nic.in/textbook.php?lech2=1-7) (PDF)
 
 
 ## (QE) Geology
