@@ -120,8 +120,8 @@
 * [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
 * [Chemistry Overview | English](https://web.ung.edu/media/Chemistry2/Chemistry-LR.pdf) (PDF)
 * [Chemistry 2e | English](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Chemistry2e-OP_TkF9Jl3.pdf) - Paul Flowers, Klaus Theopold (PDF)
-* [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
+* [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
 * [NCERT Chemistry Part-1 | Class 11 | English](https://ncert.nic.in/textbook/pdf/kech1ps.pdf) (PDF)
 * [NCERT Chemistry Part-1 | Class 12 | English](https://ncert.nic.in/textbook.php?lech1=ps-9) (PDF)
 * [NCERT Chemistry Part-2 | Class 11 | English](https://ncert.nic.in/textbook/pdf/kech2ps.pdf) (PDF)
