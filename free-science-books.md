@@ -124,9 +124,7 @@
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
 * [NCERT Chemistry Part-1 | Class 11 | English](https://ncert.nic.in/textbook/pdf/kech1ps.pdf) (PDF)
-* [NCERT Chemistry Part-1 | Class 12 | English](https://ncert.nic.in/textbook.php?lech1=ps-9) (PDF)
 * [NCERT Chemistry Part-2 | Class 11 | English](https://ncert.nic.in/textbook/pdf/kech2ps.pdf) (PDF)
-* [NCERT Chemistry Part-2 | Class 12 | English](https://ncert.nic.in/textbook.php?lech2=1-7) (PDF)
 
 
 ## (QE) Geology
