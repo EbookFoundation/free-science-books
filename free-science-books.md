@@ -99,6 +99,8 @@
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
+* [Radiation and particle detectors (2011)](https://www.asc.ohio-state.edu/honscheid.1/s12-780/references/turku_lecturenotes.pdf) - Edwin Kukk (PDF)
+* [Radiaton Physics for Personnel and Environmental Protection (2007)](https://www-esh.fnal.gov/TM1834_PDF_Files/TM_1834_Revision_9B.pdf) - J. Donald Cossairt (PDF)
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
 * [Structure and Interpretation of Classical Mechancics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman and Jack Wisdom
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
