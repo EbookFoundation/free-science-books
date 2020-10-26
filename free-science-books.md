@@ -65,6 +65,7 @@
 * [The Handbook of Essential Mathematics ](https://florida.theorangegrove.org/og/file/3a8c652c-11d0-e967-95fb-b5bbae2586d6/1/math_handbook.pdf) - John C. Sparks (PDF)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
+* [CLP-1 Differential Calculus textbook](http://www.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf) - Joel FELDMAN, Andrew RECHNITZER, Elyse YEAGER (PDF)
 
 
 ## (QB) Astronomy
