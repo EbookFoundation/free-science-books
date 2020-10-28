@@ -33,6 +33,7 @@
 * [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
 * [Calculus Better Explained](https://betterexplained.com/calculus/) - Kalid Azad (online)
 * [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
+* [CLP-1 Differential Calculus textbook](http://www.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager (PDF)
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
