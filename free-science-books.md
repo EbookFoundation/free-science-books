@@ -64,6 +64,7 @@
 * [Stacks Project](http://stacks.math.columbia.edu)
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [The Handbook of Essential Mathematics ](https://florida.theorangegrove.org/og/file/3a8c652c-11d0-e967-95fb-b5bbae2586d6/1/math_handbook.pdf) - John C. Sparks (PDF)
+* [Thomas's Calculus 12th ed.](https://www.thefreestudy.com/pdf-thomas-calculus-12th-edition/#Download) -  George B. Thomas, Joel Hass, Christopher Heil, Maurice D. Weir (PDF)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
 
