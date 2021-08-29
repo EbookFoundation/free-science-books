@@ -22,6 +22,7 @@
 ## (QA) Mathematics
 
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer
+* [A Pragmatic Introduction to Signal Processing with applications in scientific measurement](https://terpconnect.umd.edu/~toh/spectrum/TOC.html) - Tom O'Haver (online)
 * [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Advanced Calculus](http://www.oercommons.org/courses/advanced-calculus/view) - Lynn H. Loomis and Shlomost Ernberg (PDF)
 * [An Introduction to Mathematical Reasoning](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf) - Peter J. Eccles (PDF)
@@ -66,6 +67,7 @@
 * [The Handbook of Essential Mathematics ](https://florida.theorangegrove.org/og/file/3a8c652c-11d0-e967-95fb-b5bbae2586d6/1/math_handbook.pdf) - John C. Sparks (PDF)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
+
 
 
 ## (QB) Astronomy
