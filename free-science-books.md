@@ -92,6 +92,7 @@
 * [Classical Mechanics](http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf) - Joel A. Shapiro (PDF)
 * [Conceptual Physics](https://www.lightandmatter.com/cp) - Benjamin Crowell (PDF)
 * [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity/dynrel.pdf) - David Tong (PDF)
+* [Fields and Circuits](https://www.lightandmatter.com/fac) - Benjamin Crowell (PDF)
 * [Fundamental Physics for Level 0 - Teaching Guide](https://web.archive.org/web/20170701234819/https://oup.com.pk/media/teaching-guides/Fundamental%20Biology%20Physics%20Chemistry/Fundamental%20Physics%20for%20O%20Level%20Teaching%20Guide.pdf) - Ian Collins (PDF)
 * [Fusion Physics](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1562_web.pdf) - (PDF)
 * [GRE Physics Test Practice Book](https://www.ets.org/s/gre/pdf/practice_book_physics.pdf) - (PDF)
