@@ -103,6 +103,7 @@
 * [Lecture Notes on Thermodynamics](http://www.crectirupati.com/sites/default/files/lecture_notes/TD-lecture%20notes.pdf) - Munirathnam (PDF)
 * [Light and Matter](https://www.lightandmatter.com/lm) - Benjamin Crowell (PDF)
 * [Mathematical Methods in Physics - Course Notes](https://www.pa.ucla.edu/faculty-websites/dhoker-lecture-notes/graduate-courses/231A-lecture-notes-15.pdf) - Eric D’Hoker (PDF)
+* [Modern Physics](https://www.lightandmatter.com/mod) - Benjamin Crowell (PDF)
 * [Motion Mountain Physics](http://www.motionmountain.net) - Christoph Schiller
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
