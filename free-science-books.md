@@ -166,7 +166,7 @@
 
 ## (QR) Microbiology
 
-* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et all. (PDF)
+* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
 
 
 # [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine 
