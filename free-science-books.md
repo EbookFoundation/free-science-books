@@ -7,6 +7,7 @@
 
 * [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
 * [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw
+* [Instances of Cognition](https://www.crumplab.com/cognition/textbook) - Matthew J. Crump
 * [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/) - Raul Rojas
 * [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
 * [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) - British Neuroscience Association European Dana Alliance for the Brain (PDF)
