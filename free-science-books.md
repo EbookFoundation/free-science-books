@@ -7,6 +7,7 @@
 
 * [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
 * [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw
+* [Instances of Cognition](https://www.crumplab.com/cognition/textbook) - Matthew J. Crump
 * [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/) - Raul Rojas
 * [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
 * [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) - British Neuroscience Association European Dana Alliance for the Brain (PDF)
@@ -15,6 +16,7 @@
 * [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey
 * [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
+* [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer and Sean Hughes
 
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
@@ -85,24 +87,32 @@
 * [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
 * [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
 * [Atomic and Molecular Physics - Lecture Notes](http://www.yorku.ca/tomk/PHYS4011-W13.pdf) - Tom Kirchner (PDF)
+* [Chaos: Classical and Quantum](http://chaosbook.org) - Predrag Cvitanović, Roberto Artuso, Ronnie Mainieri et al.
 * [Classical Dynamics](http://www.damtp.cam.ac.uk/user/tong/dynamics/clas.pdf) - David Tong (PDF)
 * [Classical Mechanics](http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf) - Joel A. Shapiro (PDF)
+* [Conceptual Physics](https://www.lightandmatter.com/cp) - Benjamin Crowell (PDF)
 * [Dynamics and Relativity](http://www.damtp.cam.ac.uk/user/tong/relativity/dynrel.pdf) - David Tong (PDF)
+* [Fields and Circuits](https://www.lightandmatter.com/fac) - Benjamin Crowell (PDF)
 * [Fundamental Physics for Level 0 - Teaching Guide](https://web.archive.org/web/20170701234819/https://oup.com.pk/media/teaching-guides/Fundamental%20Biology%20Physics%20Chemistry/Fundamental%20Physics%20for%20O%20Level%20Teaching%20Guide.pdf) - Ian Collins (PDF)
 * [Fusion Physics](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1562_web.pdf) - (PDF)
+* [General Relativity](https://www.lightandmatter.com/genrel) - Benjamin Crowell (PDF)
 * [GRE Physics Test Practice Book](https://www.ets.org/s/gre/pdf/practice_book_physics.pdf) - (PDF)
 * [Introduction to General Relativity](http://www.staff.science.uu.nl/~hooft101/lectures/genrel_2013.pdf) - Gerard ’t Hooft (PDF)
 * [Introductory Physics I - Elementary Mechanics](https://webhome.phy.duke.edu/~rgb/Class/intro_physics_1/intro_physics_1.pdf) - R.G. Brown (PDF)
 * [Lecture Notes in Quantum Mechanics](https://physics.bgu.ac.il/~dcohen/ARCHIVE/qmc.pdf) - Doron Cohen (PDF)
 * [Lecture Notes on General Relativity](https://home.uni-leipzig.de/~tet/wp-content/uploads/2014/04/GR2015_0903.pdf) - Hollands and Sanders (PDF)
 * [Lecture Notes on Thermodynamics](http://www.crectirupati.com/sites/default/files/lecture_notes/TD-lecture%20notes.pdf) - Munirathnam (PDF)
+* [Light and Matter](https://www.lightandmatter.com/lm) - Benjamin Crowell (PDF)
 * [Mathematical Methods in Physics - Course Notes](https://www.pa.ucla.edu/faculty-websites/dhoker-lecture-notes/graduate-courses/231A-lecture-notes-15.pdf) - Eric D’Hoker (PDF)
+* [Modern Physics](https://www.lightandmatter.com/mod) - Benjamin Crowell (PDF)
 * [Motion Mountain Physics](http://www.motionmountain.net) - Christoph Schiller
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
 * [Radiation and particle detectors (2011)](https://www.asc.ohio-state.edu/honscheid.1/s12-780/references/turku_lecturenotes.pdf) - Edwin Kukk (PDF)
 * [Radiaton Physics for Personnel and Environmental Protection (2007)](https://www-esh.fnal.gov/TM1834_PDF_Files/TM_1834_Revision_9B.pdf) - J. Donald Cossairt (PDF)
+* [Relativity for Poets](https://www.lightandmatter.com/poets) - Benjamin Crowell (PDF)
+* [Special Relativity](https://www.lightandmatter.com/sr) - Benjamin Crowell (PDF)
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
 * [Structure and Interpretation of Classical Mechancics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman and Jack Wisdom
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
@@ -155,7 +165,7 @@
 
 ## (QR) Microbiology
 
-* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et all. (PDF)
+* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
 
 
 # [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine 
