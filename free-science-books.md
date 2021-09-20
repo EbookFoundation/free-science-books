@@ -69,7 +69,6 @@
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
 
 
-
 ## (QB) Astronomy
 
 * [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
