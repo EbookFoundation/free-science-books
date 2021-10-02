@@ -127,6 +127,8 @@
 * [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
 * [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
 * [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
+* [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) - Paul Flowers, Klaus Theopold, Richard Langley et al. (PDF)
+* [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson et al. (PDF) 
 * [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
