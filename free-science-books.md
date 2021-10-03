@@ -190,4 +190,5 @@
 
 ## (TP) Chemical Technology
 
+* [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam
 * [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan
