@@ -128,6 +128,7 @@
 * [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
 * [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
 * [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
+* [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
 
