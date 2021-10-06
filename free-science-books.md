@@ -127,9 +127,12 @@
 * [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
 * [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
 * [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
+* [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) - Paul Flowers, Klaus Theopold, Richard Langley et al. (PDF)
+* [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson et al. (PDF) 
 * [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
+* [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
 
 
 ## (QE) Geology
@@ -185,3 +188,8 @@
 * [Understanding the Global Energy Crisis (2014)](https://unglue.it/work/136212/) - Eugene D. Coyle and Richard A. Simmons
 
 
+## (TP) Chemical Technology
+
+* [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam
+* [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan
+* [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/cache/epub/64922/pg64922-images.html) - Alan St. H. Brock
