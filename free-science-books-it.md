@@ -13,6 +13,7 @@
 * [Eserciziario di Analisi Matematica I](http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid259140.pdf) - m. Eleuteri (PDF)
 * [Matematica C3 – Algebra 1](https://www.matematicamente.it/staticfiles/matematica-C3/algebra1_6ed_set2017.pdf) - AA.VV. (PDF)
 * [Matematica di Base](http://www.batmath.it/matematica/mat_base/mbase.pdf) - L. Battaia (PDF)
+* [Matematica Dolce 1 per i licei](https://bitbucket.org/zambu/matematicadolce/downloads/m_d_licei_21_1.pdf) - AA. VV. (PDF)
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
 
 
