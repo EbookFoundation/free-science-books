@@ -134,6 +134,7 @@
 * [Electrochemistry](https://unglue.it/work/488281/) - Mohammed A. A. Khalid
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
 * [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra
+* [Inorganic Chemistry Practical](https://www.bookrix.com/_ebook-dr-deepak-pant-inorganic-chemistry-practical/) - Dr. Deepak Pant
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
 * [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
 
