@@ -41,16 +41,16 @@
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
-* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springe
-* [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
+* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springer
+* [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) - Iványi Antal Miklós
 * [How We Got From There to Here: A Store of Real Analysis](https://textbooks.opensuny.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers and Eugene C. Boman (HTML, PDF)
 * [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
-* [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+* [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) -  Jeremy Orloff, Jonathan Bloom
 * [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 * [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
 * [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
 * [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/booklinear.html) - Dr. Arbind K Lal, IIT Kanpur (PDF)
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) (PDF)
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron (PDF)
 * [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
@@ -117,7 +117,7 @@
 * [Statistical Physics](http://www.damtp.cam.ac.uk/user/tong/statphys/sp.pdf) - David Tong (PDF)
 * [Structure and Interpretation of Classical Mechancics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) - Gerald Jay Sussman and Jack Wisdom
 * [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
-* [The Physics Hypertextbook](https://physics.info)
+* [The Physics Hypertextbook](https://physics.info) - Glenn Elert
 * [University Physics, Volume 1](https://openstax.org/details/books/university-physics-volume-1) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
 * [University Physics, Volume 2](https://openstax.org/details/books/university-physics-volume-2) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
 * [University Physics, Volume 3](https://openstax.org/details/books/university-physics-volume-3) - William Moebs, Samuel J. Ling, Jeff Sanny et al. (PDF)
@@ -178,7 +178,7 @@
 
 ## (RT) Nursing
 
-* [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - by Boykin and Schoenhofer
+* [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - Boykin and Schoenhofer
 
 
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology

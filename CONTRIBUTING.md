@@ -13,15 +13,15 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
 3. We have 2 kinds of lists. Make sure you know where you're adding the link:
     
     + **Books** : PDF, HTML, DJVU, ePub, a gitBook.io based site, a Git repo, etc.
-    + **Courses** : A course is a well designed learning material which was made by an organized group and is availabe for a long time where there is no interactive tool embeded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.
+    + **Courses** : A course is a well-designed learning material which was made by an organized group and is available for a long time where there is no interactive tool embedded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
 
 5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
 ### Guidelines
-- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
-- we don't accept files hosted on google drive, dropbox, mega, scribd, issuu and other similar file upload platforms
+- make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free
+- we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
 - insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
 - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
     + no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
@@ -34,22 +34,22 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
   1. *replace it* with its `http` counterpart if possible (because accepting exceptions can be complicated on mobile devices)
   2. *leave it* if no `http` version but link still accessible through `https` by adding an exception to the browser or ignoring the warning
   3. *remove it* otherwise
-- if a link exists in multiple format, add a separate link with a note about each format
+- if a link exists in multiple formats, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
     + use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
-    + if they link to different editions and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
+    + if they link to different editions, and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title. 
 - include the author name or names where appropriate. You can shorten author lists with "et al."
 
 ### Scope
-+ If a book would be catalogued in an Library of Congress category other than [Science](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf), [Medicine](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf), or [Technology](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf), for example, ["MUSIC AND BOOKS ON MUSIC"](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_m.pdf) then it's out of scope for this list.
++ If a book would be catalogued in the Library of Congress category other than [Science](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf), [Medicine](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf), or [Technology](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf), for example, ["MUSIC AND BOOKS ON MUSIC"](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_m.pdf) then it's out of scope for this list.
 + If a non-book resource is proposed, for example "screencasts", "interactive tutorials", etc., following the example of [free-programming-books](https://github.com/vhf/free-programming-books/), we encourage these resources to be included in a separate page dedicate to that sort of resource.
 + If a book or resource is a "free-programming" book or resource, it should [go there](https://github.com/vhf/free-programming-books/). Math books might go both places, but not computer science.
 
 ### Formatting
 + All lists are `.md` files. Try to learn [Markdown](https://guides.github.com/features/mastering-markdown/)  syntax. It's simple!
-+ All the lists start with an Index, the idea is to show all of sections and subsections there, so it's important to have an index for each section. Right now it's alphabetized, so please use alphabetic order.
++ All the lists start with an Index, the idea is to show all the sections and subsections there, so it's important to have an index for each section. Right now it's alphabetized, so please use alphabetic order.
 + Sections are using level 3 heading (in HTML is `<h3>`, in Markdown is `###`), and subsections are using level 4 (in HTML is `<h4>`, in Markdown is `####`).
 
 The idea is to have

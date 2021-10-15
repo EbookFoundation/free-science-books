@@ -11,7 +11,7 @@ This list was inspired by [free-programming-books](https://github.com/EbookFound
 
 It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
 - [Fork](https://help.github.com/articles/fork-a-repo)
-- Read the [TODO](/TODO.md) file(adding new books is our #1 priority, but things like Alphabetizing are important, too.)
+- Read the [TODO](/TODO.md) file (adding new books is our #1 priority, but things like Alphabetizing are important, too.)
 - [Edit](https://github.com/EbookFoundation/free-science-books/edit/master/free-science-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
 - Be part of a great project!
@@ -27,7 +27,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-science-books&title=Free%20Science%20Books&summary=&source=)
 
 
-### In Other  Languages
+### In Other Languages
 
 + Azerbaijan: [github](/free-science-books-az.md)
 + Bulgarian: [github](/free-science-books-bg.md)
@@ -39,7 +39,7 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 + German: [github](/free-science-books-de.md)
 + Greek: [github](/free-science-books-gr.md)
 + Hungarian: [github](/free-science-books-hu.md)
-+ Indonesian : [github](/free-science-books-id.md)
++ Indonesian: [github](/free-science-books-id.md)
 + Italian: [github](/free-science-books-it.md)
 + Japanese: [github](/free-science-books-ja.md)
 + Korean: [github](/free-science-books-ko.md)
