@@ -161,6 +161,7 @@
 
 ## (QM) Human anatomy
 
+* [Atlas of Human Anatomy (2018)](https://b-ok.africa/book/3516119/072898) - Frank H. Netter (PDF)
 * [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
 
 
