@@ -37,7 +37,7 @@
 
 ## (QD) Chimica
 
-* [Appunti di Chimica Inorganica](https://www.uniba.it/ricerca/dipartimenti/disspa/attivita-didattica/materiale-didattico/materiale-di-elementi-di-chimica-della-prof.ssa-maria-pizzigallo-per-il-cl-stal/appunti-di-chimica-organica.pdf) - M. Pizzigallo - Università di Bari (PDF)
+* [Appunti di Chimica Organica](https://www.uniba.it/ricerca/dipartimenti/disspa/attivita-didattica/materiale-didattico/materiale-di-elementi-di-chimica-della-prof.ssa-maria-pizzigallo-per-il-cl-stal/appunti-di-chimica-organica.pdf) - M. Pizzigallo - Università di Bari (PDF)
 * [Chimica C3](https://www.matematicamente.it/staticfiles/manuali-cc/Matematicamente-ChimicaC3.pdf) - AA.VV. (PDF)
 
 
