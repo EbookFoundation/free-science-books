@@ -59,6 +59,7 @@
 * [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Michael Stone and Paul Goldbart (PDF)
 * [Mathematics Formulary](https://johanw.home.xs4all.nl/math.pdf) - J.C.A. Wevers (PDF)
 * [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
+* [Mostly Harmless Statistics](https://open.umn.edu/opentextbooks/textbooks/mostly-harmless-statistics) - Rachel L. Webb (PDF)
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 * [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
 * [OpenStax - Mathematics](https://openstax.org/subjects/math) - OpenStax (PDF)
