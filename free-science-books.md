@@ -32,7 +32,7 @@
 * [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Basic Concepts of Mathematics](http://www.trillia.com/dA/zakon-basic-a4-one.pdf) - Elias Zakon (PDF)
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
-* [Basic Probability Theory] (https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - Robert B. Ash (PDF)
+* [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - Robert B. Ash (PDF)
 * [Book Of Proof (2013)](http://www.people.vcu.edu/~rhammack/BookOfProof) - Richard Hammack
 * [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
 * [Calculus Better Explained](https://betterexplained.com/calculus/) - Kalid Azad (online)
