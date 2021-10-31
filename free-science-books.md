@@ -40,6 +40,7 @@
 * [CLP-1 Differential Calculus textbook](http://www.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager (PDF)
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
+* [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) - Bradley Efron and Trevor Hastie (PDF)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springer
