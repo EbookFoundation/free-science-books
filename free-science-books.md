@@ -42,6 +42,7 @@
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman (PDF)
 * [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springer
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) - Iványi Antal Miklós
 * [How We Got From There to Here: A Store of Real Analysis](https://textbooks.opensuny.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers and Eugene C. Boman (HTML, PDF)
