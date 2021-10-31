@@ -1,5 +1,5 @@
 # Contribute to the lists
-Hello dear friend, welcome!
+Hello dear friends, welcome!
 This guide details how to contribute to this repository.
 
 
@@ -15,7 +15,7 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
     + **Books** : PDF, HTML, DJVU, ePub, a gitBook.io based site, a Git repo, etc.
     + **Courses** : A course is a well-designed learning material which was made by an organized group and is available for a long time where there is no interactive tool embedded in the site. e.g.: [OpenCourseWare](http://ocw.mit.edu/), [PHPAcademy](https://phpacademy.org), etc.
 
-4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files
+4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
 5. Travis CI will run tests to make sure your lists are alphabetized and formatting rules are followed. Be sure to check that your changes pass the tests.
 
@@ -53,7 +53,7 @@ By submitting to this repository you agree to the [CC0](https://creativecommons.
 + Sections are using level 3 heading (in HTML is `<h3>`, in Markdown is `###`), and subsections are using level 4 (in HTML is `<h4>`, in Markdown is `####`).
 
 The idea is to have
-+ `2` empty lines between last suggested book & new header
++ `2` empty lines between last suggested book & new header.
 + `1` empty line between header & first book of that very section.
 + `0` empty line between each book in 1 section.
 + `1` empty line at the end of each `.md` file.
