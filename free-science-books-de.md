@@ -1,5 +1,9 @@
 # Fachrichtungen
 
+## Chemie
+
+* [C. Remigius Fresenius: Anleitung zur quantitativen chemischen Analyse](https://www.gutenberg.org/cache/epub/47843/pg47843-images.html)
+
 ## Philologie
 
 * [Über die Dichtkunst beim Aristoteles](http://www.gutenberg.org/files/16880/16880-h/16880-h.htm)
