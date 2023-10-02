@@ -2,15 +2,15 @@
 
 ## Biologie
 
-* [Udo Dammer: Zimmerpflanzen](https://www.gutenberg.org/cache/epub/22823/pg22823-images.html)
-* [Charles Darwin: Über die Entstehung der Arten im Thier- und Pflanzen-Reich durch natürliche Züchtung](https://www.gutenberg.org/cache/epub/69172/pg69172-images.html)
-* [J. Fitschen und O. Schmeil: Flora von Deutschland](https://www.gutenberg.org/cache/epub/58683/pg58683-images.html)
-* [Gregor Mendel: Versuche über Pflanzenhybriden](https://www.gutenberg.org/cache/epub/40854/pg40854-images.html)
+* [Udo Dammer: Zimmerpflanzen (1908)](https://www.gutenberg.org/cache/epub/22823/pg22823-images.html)
+* [Charles Darwin: Über die Entstehung der Arten im Thier- und Pflanzen-Reich durch natürliche Züchtung (1863)](https://www.gutenberg.org/cache/epub/69172/pg69172-images.html)
+* [J. Fitschen und O. Schmeil: Flora von Deutschland (1922)](https://www.gutenberg.org/cache/epub/58683/pg58683-images.html)
+* [Gregor Mendel: Versuche über Pflanzenhybriden (1866)](https://www.gutenberg.org/cache/epub/40854/pg40854-images.html)
 
 
 ## Chemie
 
-* [C. Remigius Fresenius: Anleitung zur quantitativen chemischen Analyse](https://www.gutenberg.org/cache/epub/47843/pg47843-images.html)
+* [C. Remigius Fresenius: Anleitung zur quantitativen chemischen Analyse (1854)](https://www.gutenberg.org/cache/epub/47843/pg47843-images.html)
 
 
 ## Philologie
