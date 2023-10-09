@@ -1,5 +1,18 @@
 # Fachrichtungen
 
+## Biologie
+
+* [Flora von Deutschland (1922)](https://www.gutenberg.org/cache/epub/58683/pg58683-images.html) - J. Fitschen und O. Schmeil
+* [Über die Entstehung der Arten im Thier- und Pflanzen-Reich durch natürliche Züchtung (1863)](https://www.gutenberg.org/cache/epub/69172/pg69172-images.html) - Charles Darwin
+* [Versuche über Pflanzenhybriden (1866)](https://www.gutenberg.org/cache/epub/40854/pg40854-images.html) - Gregor Mendel
+* [Zimmerpflanzen (1908)](https://www.gutenberg.org/cache/epub/22823/pg22823-images.html) - Udo Dammer
+
+
+## Chemie
+
+* [Anleitung zur quantitativen chemischen Analyse (1854)](https://www.gutenberg.org/cache/epub/47843/pg47843-images.html) - C. Remigius Fresenius
+
+
 ## Philologie
 
 * [Über die Dichtkunst beim Aristoteles](http://www.gutenberg.org/files/16880/16880-h/16880-h.htm)
