@@ -116,6 +116,7 @@
 * [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
 * [Physics Test Practice Book](https://www.physics.ohio-state.edu/undergrad/greStuff/exam_GR9677.pdf) - (PDF)
 * [Problems in Introductory Physics](http://www.lightandmatter.com/problems/problems.pdf) - B. Crowell and B. Shotwell (PDF)
+* [Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles (1985)](https://www.sicyon.com/resources/library/physics/eisberg_resnick-quantum_physics.pdf) - Robert Eisberg and Robert Resnick (PDF)
 * [Radiation and particle detectors (2011)](https://www.asc.ohio-state.edu/honscheid.1/s12-780/references/turku_lecturenotes.pdf) - Edwin Kukk (PDF)
 * [Radiaton Physics for Personnel and Environmental Protection (2007)](https://www-esh.fnal.gov/TM1834_PDF_Files/TM_1834_Revision_9B.pdf) - J. Donald Cossairt (PDF)
 * [Relativity for Poets](https://www.lightandmatter.com/poets) - Benjamin Crowell (PDF)
