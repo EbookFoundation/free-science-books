@@ -85,6 +85,7 @@
 * [Astronomy (1915)](https://unglue.it/work/81943/) - Harold Jacoby
 * [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
 * [Astronomy 2e (OpenStax)](https://openstax.org/details/books/astronomy-2e) - Andrew Fraknoi et al. (PDF)
+* [Astronomy of To-day: A Popular Introduction in Non-Technical Language (2009)](https://unglue.it/work/81958/) - Cecil Goodrich Julius Dolmage
 * [Elements of astronomy (1836)](https://unglue.it/work/81958/) - John Hubbard Wilkins
 * [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://unglue.it/work/145858/) - Dylan Steele
 
