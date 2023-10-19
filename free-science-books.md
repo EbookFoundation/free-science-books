@@ -149,7 +149,7 @@
 ## (QE) Geology
 
 * [An Introduction to Geology](http://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher
-* [Physical Geology](https://opentextbc.ca/geology/open/download?type=pdf) - Steven Earle (PDF)
+* [Physical Geology (2019)](https://opentextbc.ca/physicalgeology2ed/) - Steven Earle (PDF)
 
 
 ## (QH) Natural history
