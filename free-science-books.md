@@ -88,6 +88,7 @@
 * [Astronomy of To-day: A Popular Introduction in Non-Technical Language (2009)](https://unglue.it/work/81958/) - Cecil Goodrich Julius Dolmage
 * [Elements of astronomy (1836)](https://unglue.it/work/81958/) - John Hubbard Wilkins
 * [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://unglue.it/work/145858/) - Dylan Steele
+* [The New Astronomy (2021)](https://unglue.it/work/81958/) - S. P. (Samuel Pierpont) Langley
 
 
 ## (QC) Physics
