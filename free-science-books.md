@@ -72,7 +72,7 @@
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Stacks Project](http://stacks.math.columbia.edu)
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
-* [The Handbook of Essential Mathematics ](https://florida.theorangegrove.org/og/file/3a8c652c-11d0-e967-95fb-b5bbae2586d6/1/math_handbook.pdf) - John C. Sparks (PDF)
+* [The Handbook of Essential Mathematics](https://theorangegrove.org/wp-content/uploads/2023/04/the-handbook-of-essential-mathematics-sparks.pdf-1292911.pdf) - John C. Sparks (PDF)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
 
