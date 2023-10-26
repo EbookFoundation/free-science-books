@@ -182,6 +182,10 @@
 
 * [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
 
+## (QS) Library and Information Science
+
+* [Library and Information Science - Class XI](https://cbseacademic.nic.in/web_material/doc/2014/16_Library%20&%20Information%20Science%20Class%20XI.pdf) - CBSE (PDF)
+
 
 # [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine 
 
