@@ -17,6 +17,7 @@
 * [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
 * [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer and Sean Hughes
+* [Your Mind and How to Use It](https://www.gutenberg.org/ebooks/42055) - William Walker Atkinson
 
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
