@@ -5,7 +5,9 @@
 
 ## (BF) Psychology
 
+* [A Theory of Human Motivation](https://www.all-about-psychology.com/support-files/a-theory-of-human-motivation.pdf) - A. H. Maslow (PDF)
 * [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
+* [Dream Psychology: Psychoanalysis for Beginners](https://www.all-about-psychology.com/support-files/dream-psychology-psychoanalysis-for-beginners.pdf) - Sigmund Freud (PDF)
 * [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw
 * [Instances of Cognition](https://www.crumplab.com/cognition/textbook) - Matthew J. Crump
 * [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/) - Raul Rojas
@@ -20,6 +22,8 @@
 * [The Nervous System in Action](https://michaeldmann.net/The%20Nervous%20System%20In%20Action.html) - Michael D. Mann
 * [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer and Sean Hughes
 * [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, and Bryan Jones
+
+
 
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
@@ -45,6 +49,7 @@
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) - Bradley Efron and Trevor Hastie (PDF)
+* [Contemporary Mathematics (OpenStax)](https://openstax.org/details/books/contemporary-mathematics) - Donna Kirk (PDF)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman (PDF)
@@ -73,11 +78,13 @@
 * [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
+* [Precalculus 2e (OpenStax)](https://openstax.org/details/books/precalculus-2e) - Jay Abramson (PDF)
 * [Stacks Project](http://stacks.math.columbia.edu)
 * [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
 * [The Handbook of Essential Mathematics](https://theorangegrove.org/wp-content/uploads/2023/04/the-handbook-of-essential-mathematics-sparks.pdf-1292911.pdf) - John C. Sparks (PDF)
 * [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
 * [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
+
 
 
 ## (QB) Astronomy
@@ -146,6 +153,7 @@
 * [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
 * [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra
 * [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
+* [Organic Chemistry (OpenStax)](https://openstax.org/details/books/organic-chemistry) - John McMurry (PDF)
 * [Structural Biochemistry](https://en.wikibooks.org/wiki/Structural_Biochemistry) - Wikibooks
 * [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
 
@@ -173,6 +181,7 @@
 
 ## (QM) Human anatomy
 
+* [Anatomy and Physiology 2e (OpenStax)](https://openstax.org/details/books/anatomy-and-physiology-2e) - J. Gordon Betts (PDF)
 * [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
 
 
@@ -184,6 +193,8 @@
 ## (QR) Microbiology
 
 * [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
+* [Laboratory Exercises in Microbiology: Discovering the Unseen World Through Hands-On Investigation](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1015&context=qb_oers) - Joan and Susan (PDF)
+
 
 ## (QS) Library and Information Science
 
