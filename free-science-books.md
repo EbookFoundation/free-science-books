@@ -46,7 +46,7 @@
 * [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
 * [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
 * [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) - Bradley Efron and Trevor Hastie (PDF)
-* [Contemporary Mathematics (OpenStax)](https://openstax.org/details/books/contemporary-mathematics) - Donna Kirk (PDF)
+* [Contemporary Mathematics](https://openstax.org/details/books/contemporary-mathematics) - Donna Kirk (PDF)
 * [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman (PDF)
