@@ -21,12 +21,12 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 ### How to Share
 
-+ [Share on 𝕏 (Twitter)](https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-science-books%0AFree%20Science%20Books)
 + [Share on Facebook](http://www.facebook.com/share.php?u=https://github.com/EbookFoundation/free-science-books&p[images][0]=&p[title]=Free%20Science%20Books&p[summary]=)
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-science-books&title=Free%20Science%20Books&summary=&source=)
 + [Share on Mastodon/Fediverse](https://toot.kytta.dev/?text=https://github.com/EbookFoundation/free-science-books)
 + [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-science-books)
-
++ [Share on 𝕏 (Twitter)](https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-science-books%0AFree%20Science%20Books)
+  
 
 ### In Other Languages
 
