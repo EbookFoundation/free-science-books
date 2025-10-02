@@ -30,32 +30,59 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 
 ### In Other Languages
 
-+ Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي: [github](/free-science-books-az.md)
-+ Bulgarian / български: [github](/free-science-books-bg.md)
-+ Chinese / 中文: [github](/free-science-books-zh.md)
-+ Czech / čeština / český jazyk: [github](/free-science-books-cs.md)
-+ Dutch / Nederlands: [github](/free-science-books-nl.md)
-+ English: [github](/free-science-books.md)
-+ French / français: [github](/free-science-books-fr.md)
-+ German / Deutsch: [github](/free-science-books-de.md)
-+ Greek / ελληνικά: [github](/free-science-books-gr.md)
-+ Hungarian: [github](/free-science-books-hu.md)
-+ Indonesian / Bahasa Indonesia: [github](/free-science-books-id.md)
-+ Italian / italiano: [github](/free-science-books-it.md)
-+ Japanese / 日本語: [github](/free-science-books-ja.md)
-+ Korean / 한국어: [github](/free-science-books-ko.md)
-+ Persian / Farsi (Iran) / فارسى: [github](/free-science-books-fa_IR.md)
-+ Polish / polski / język polski / polszczyzna: [github](/free-science-books-pl.md)
-+ Portuguese (Brazil): [github](/free-science-books-pt_BR.md)
-+ Portuguese (Portugal): [github](/free-science-books-pt_PT.md)
-+ Romanian (Romania) / limba română / român: [github](/free-science-books-ro.md)
-+ Russian / Русский язык: [github](/free-science-books-ru.md)
-+ Slovak / slovenčina: [github](/free-science-books-sk.md)
-+ Spanish / español / castellano: [github](/free-science-books-es.md)
-+ Swedish / Svenska: [github](/free-science-books-se.md)
-+ Turkish / Türkçe: [github](/free-science-books-tr.md)
-+ Ukrainian / Українська: [github](/free-science-books-ua.md)
-+ Urdu / اردو: [github](/free-science-books-ur.md)
+- Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
+  - [Free Science Books](/free-science-books-az.md)
+- Bulgarian / български
+  - [Free Science Books](/free-science-books-bg.md)
+- Chinese / 中文
+  - [Free Science Books](/free-science-books-zh.md)
+- Czech / čeština / český jazyk
+  - [Free Science Books](/free-science-books-cs.md)
+- Dutch / Nederlands
+  - [Free Science Books](/free-science-books-nl.md)
+- English
+  - [Free Science Books](/free-science-books.md)
+  - [Contributing](/CONTRIBUTING.md)
+- French / français
+  - [Free Science Books](/free-science-books-fr.md)
+- German / Deutsch
+  - [Free Science Books](/free-science-books-de.md)
+- Greek / ελληνικά
+  - [Free Science Books](/free-science-books-gr.md)
+- Hungarian
+  - [Free Science Books](/free-science-books-hu.md)
+- Indonesian / Bahasa Indonesia
+  - [Free Science Books](/free-science-books-id.md)
+- Italian / italiano
+  - [Free Science Books](/free-science-books-it.md)
+- Japanese / 日本語
+  - [Free Science Books](/free-science-books-ja.md)
+- Korean / 한국어
+  - [Free Science Books](/free-science-books-ko.md)
+- Persian / Farsi (Iran) / فارسى
+  - [Free Science Books](/free-science-books-fa_IR.md)
+- Polish / polski / język polski / polszczyzna
+  - [Free Science Books](/free-science-books-pl.md)
+- Portuguese (Brazil)
+  - [Free Science Books](/free-science-books-pt_BR.md)
+- Portuguese (Portugal)
+  - [Free Science Books](/free-science-books-pt_PT.md)
+- Romanian (Romania) / limba română / român
+  - [Free Science Books](/free-science-books-ro.md)
+- Russian / Русский язык
+  - [Free Science Books](/free-science-books-ru.md)
+- Slovak / slovenčina
+  - [Free Science Books](/free-science-books-sk.md)
+- Spanish / español / castellano
+  - [Free Science Books](/free-science-books-es.md)
+- Swedish / Svenska
+  - [Free Science Books](/free-science-books-se.md)
+- Turkish / Türkçe
+  - [Free Science Books](/free-science-books-tr.md)
+- Ukrainian / Українська
+  - [Free Science Books](/free-science-books-ua.md)
+- Urdu / اردو
+  - [Free Science Books](/free-science-books-ur.md)
 
 
 ## About [The Free Ebook Foundation](http://ebookfoundation.org/)
