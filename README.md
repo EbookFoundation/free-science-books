@@ -1,12 +1,5 @@
 # Free Science Books
 
-<div align="center" markdown="1">
-
-[![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)&#160;
-[![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfest/2025/EbookFoundation/free-science-books?label=Hacktoberfest+2025)](https://github.com/EbookFoundation/free-science-books/pulls?q=is%3Apr+is%3Amerged+created%3A2025-10-01..2025-10-31)
-
-</div>
-
 [View the English list](/free-science-books.md)
 
 ## Intro
@@ -22,16 +15,6 @@ It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Pl
 - [Edit](https://github.com/EbookFoundation/free-science-books/edit/master/free-science-books.md) (we prefer multiple small commits rather than one large change)
 - [Send a PR](https://help.github.com/articles/using-pull-requests)
 - Be part of a great project!
-
-<div align="center" markdown="1">
-
-[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-science-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-science-books/issues)&#160;
-[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-science-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-science-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)    
-[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-science-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-science-books/pulls)&#160;
-[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-science-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-science-books/pulls?q=is%3Apr+is%3Amerged)&#160;
-[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-science-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-science-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-
-</div>
 
 **Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
 
