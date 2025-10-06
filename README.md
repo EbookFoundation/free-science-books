@@ -1,91 +1,151 @@
-# Free Science Books
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Free Science Books</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #222;
+      line-height: 1.6;
+      margin: 0;
+      padding: 2rem;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
 
-[View the English list](/free-science-books.md)
+    h1, h2, h3 {
+      color: #0b3d91;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
 
-## Intro
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      border-bottom: 3px solid #0b3d91;
+      padding-bottom: 0.3rem;
+    }
 
-This list was inspired by [free-programming-books](https://github.com/EbookFoundation/free-programming-books/). A few of us decided to try it for Science books.
+    p {
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
 
+    ul {
+      list-style-type: disc;
+      padding-left: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
 
-### How To Contribute
+    ul li {
+      margin-bottom: 0.5rem;
+    }
 
-It's [easy](https://github.com/vhf/free-programming-books/wiki/Contribution). Please read [CONTRIBUTING](/CONTRIBUTING.md).
-- [Fork](https://help.github.com/articles/fork-a-repo)
-- Read the [TODO](/TODO.md) file (adding new books is our #1 priority, but things like Alphabetizing are important, too.)
-- [Edit](https://github.com/EbookFoundation/free-science-books/edit/master/free-science-books.md) (we prefer multiple small commits rather than one large change)
-- [Send a PR](https://help.github.com/articles/using-pull-requests)
-- Be part of a great project!
+    a {
+      color: #0b3d91;
+      text-decoration: none;
+      font-weight: 600;
+      transition: color 0.3s ease;
+    }
 
-**Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing**, thanks.
+    a:hover {
+      color: #e63946;
+      text-decoration: underline;
+    }
 
+    .section {
+      margin-bottom: 2rem;
+    }
 
-### How to Share
+    .languages-list {
+      columns: 3;
+      column-gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
 
-+ [Share on Facebook](http://www.facebook.com/share.php?u=https://github.com/EbookFoundation/free-science-books&p[images][0]=&p[title]=Free%20Science%20Books&p[summary]=)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-science-books&title=Free%20Science%20Books&summary=&source=)
-+ [Share on Mastodon/Fediverse](https://toot.kytta.dev/?text=https://github.com/EbookFoundation/free-science-books)
-+ [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-science-books)
-+ [Share on 𝕏 (Twitter)](https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-science-books%0AFree%20Science%20Books)
-  
+    .languages-list a {
+      display: block;
+      margin-bottom: 0.3rem;
+    }
 
-### In Other Languages
+    /* Responsive for smaller screens */
+    @media (max-width: 600px) {
+      .languages-list {
+        columns: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Free Science Books</h1>
 
-- Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
-  - [Free Science Books](/free-science-books-az.md)
-- Bulgarian / български
-  - [Free Science Books](/free-science-books-bg.md)
-- Chinese / 中文
-  - [Free Science Books](/free-science-books-zh.md)
-- Czech / čeština / český jazyk
-  - [Free Science Books](/free-science-books-cs.md)
-- Dutch / Nederlands
-  - [Free Science Books](/free-science-books-nl.md)
-- English
-  - [Free Science Books](/free-science-books.md)
-  - [Contributing](/CONTRIBUTING.md)
-- French / français
-  - [Free Science Books](/free-science-books-fr.md)
-- German / Deutsch
-  - [Free Science Books](/free-science-books-de.md)
-- Greek / ελληνικά
-  - [Free Science Books](/free-science-books-gr.md)
-- Hungarian
-  - [Free Science Books](/free-science-books-hu.md)
-- Indonesian / Bahasa Indonesia
-  - [Free Science Books](/free-science-books-id.md)
-- Italian / italiano
-  - [Free Science Books](/free-science-books-it.md)
-- Japanese / 日本語
-  - [Free Science Books](/free-science-books-ja.md)
-- Korean / 한국어
-  - [Free Science Books](/free-science-books-ko.md)
-- Persian / Farsi (Iran) / فارسى
-  - [Free Science Books](/free-science-books-fa_IR.md)
-- Polish / polski / język polski / polszczyzna
-  - [Free Science Books](/free-science-books-pl.md)
-- Portuguese (Brazil)
-  - [Free Science Books](/free-science-books-pt_BR.md)
-- Portuguese (Portugal)
-  - [Free Science Books](/free-science-books-pt_PT.md)
-- Romanian (Romania) / limba română / român
-  - [Free Science Books](/free-science-books-ro.md)
-- Russian / Русский язык
-  - [Free Science Books](/free-science-books-ru.md)
-- Slovak / slovenčina
-  - [Free Science Books](/free-science-books-sk.md)
-- Spanish / español / castellano
-  - [Free Science Books](/free-science-books-es.md)
-- Swedish / Svenska
-  - [Free Science Books](/free-science-books-se.md)
-- Turkish / Türkçe
-  - [Free Science Books](/free-science-books-tr.md)
-- Ukrainian / Українська
-  - [Free Science Books](/free-science-books-ua.md)
-- Urdu / اردو
-  - [Free Science Books](/free-science-books-ur.md)
+  <div class="section">
+    <p>This list was inspired by <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank" rel="noopener noreferrer">free-programming-books</a>. A few of us decided to try it for Science books.</p>
+  </div>
 
+  <div class="section">
+    <h2>How To Contribute</h2>
+    <p>It's easy. Please read <a href="CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">CONTRIBUTING</a>.</p>
+    <ul>
+      <li>Fork</li>
+      <li>Read the TODO file (adding new books is our #1 priority, but things like alphabetizing are important, too.)</li>
+      <li>Edit (we prefer multiple small commits rather than one large change)</li>
+      <li>Send a PR</li>
+      <li>Be part of a great project!</li>
+    </ul>
+    <p>Again, unlike other projects, we prefer multiple small commits rather than one large change in a pull request - it's fine to have one PR, but please make sure your title reflects what you're changing, thanks.</p>
+  </div>
 
-## About [The Free Ebook Foundation](http://ebookfoundation.org/)
+  <div class="section">
+    <h2>How to Share</h2>
+    <ul>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">Share on Facebook</a></li>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">Share on LinkedIn</a></li>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">Share on Mastodon/Fediverse</a></li>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">Share on Telegram</a></li>
+      <li><a href="#" target="_blank" rel="noopener noreferrer">Share on 𝕏 (Twitter)</a></li>
+    </ul>
+  </div>
 
-The Free Ebook Foundation was founded as a Non-Profit Corporation in 2015 to be a home for [Unglue.it](https://unglue.it), [GITenberg](http://www.gitenberg.org), and to promote the sustainable funding and distribution of free ebooks.
+  <div class="section">
+    <h2>In Other Languages</h2>
+    <div class="languages-list">
+      <a href="#">Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي</a>
+      <a href="#">Bulgarian / български</a>
+      <a href="#">Chinese / 中文</a>
+      <a href="#">Czech / čeština / český jazyk</a>
+      <a href="#">Dutch / Nederlands</a>
+      <a href="#">English</a>
+      <a href="#">French / français</a>
+      <a href="#">German / Deutsch</a>
+      <a href="#">Greek / ελληνικά</a>
+      <a href="#">Hungarian</a>
+      <a href="#">Indonesian / Bahasa Indonesia</a>
+      <a href="#">Italian / italiano</a>
+      <a href="#">Japanese / 日本語</a>
+      <a href="#">Korean / 한국어</a>
+      <a href="#">Persian / Farsi (Iran) / فارسى</a>
+      <a href="#">Polish / polski / język polski / polszczyzna</a>
+      <a href="#">Portuguese (Brazil)</a>
+      <a href="#">Portuguese (Portugal)</a>
+      <a href="#">Romanian (Romania) / limba română / român</a>
+      <a href="#">Russian / Русский язык</a>
+      <a href="#">Slovak / slovenčina</a>
+      <a href="#">Spanish / español / castellano</a>
+      <a href="#">Swedish / Svenska</a>
+      <a href="#">Turkish / Türkçe</a>
+      <a href="#">Ukrainian / Українська</a>
+      <a href="#">Urdu / اردو</a>
+    </div>
+  </div>
 
+  <div class="section">
+    <h2>About The Free Ebook Foundation</h2>
+    <p>The Free Ebook Foundation was founded as a Non-Profit Corporation in 2015 to be a home for Unglue.it, GITenberg, and to promote the sustainable funding and distribution of free ebooks.</p>
+  </div>
+</body>
+</html>
