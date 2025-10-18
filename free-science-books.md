@@ -173,6 +173,7 @@
 
 ## (QM) Human anatomy
 
+* [Human Biology](https://www.textbookequity.org/Textbooks/HumanBiologyCK12.pdf) - Douglas Wilkin, Jean Brainard (PDF)
 * [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
 
 
