@@ -60,6 +60,7 @@
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron (PDF)
 * [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
 * [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
+* [Linear Algebra Theory and Applications](https://www.textbookequity.org/Textbooks/Linear-Algebra-theory_apps_OTCe.pdf) - Kenneth Kuttler (PDF) 
 * [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
 * [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong (PDF)
@@ -173,6 +174,7 @@
 
 ## (QM) Human anatomy
 
+* [Human Biology](https://www.textbookequity.org/Textbooks/HumanBiologyCK12.pdf) - Douglas Wilkin, Jean Brainard (PDF)
 * [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
 
 
