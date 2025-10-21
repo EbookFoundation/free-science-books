@@ -18,7 +18,7 @@
 * [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler (HTML)
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book) (PDF, EPUB)
 * [The Nervous System in Action](https://michaeldmann.net/The%20Nervous%20System%20In%20Action.html) - Michael D. Mann (PDF, HTML)
-* [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer and Sean Hughes (PDF)
+* [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer, Sean Hughes (PDF)
 * [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, and Bryan Jones (HTML)
 
 
