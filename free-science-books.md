@@ -19,7 +19,7 @@
 * [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book) (PDF, EPUB)
 * [The Nervous System in Action](https://michaeldmann.net/The%20Nervous%20System%20In%20Action.html) - Michael D. Mann (PDF, HTML)
 * [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer, Sean Hughes (PDF)
-* [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, and Bryan Jones (HTML)
+* [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, Bryan Jones (HTML)
 
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
