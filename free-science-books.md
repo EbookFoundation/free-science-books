@@ -5,21 +5,21 @@
 
 ## (BF) Psychology
 
-* [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
-* [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw
-* [Instances of Cognition](https://www.crumplab.com/cognition/textbook) - Matthew J. Crump
-* [Neural Networks - A Systematic Introduction](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/1996/NeuralNetworks/neuron.pdf) - Raul Rojas
-* [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) - Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski
+* [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy (PDF, EPUb, HTML)
+* [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw (HTML)
+* [Instances of Cognition](https://www.crumplab.com/cognition/textbook) - Matthew J. Crump (HTML, PDF)
+* [Neural Networks - A Systematic Introduction](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/1996/NeuralNetworks/neuron.pdf) - Raul Rojas (PDF)
+* [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) - Wulfram Gerstner, Werner M. Kistler, Richard Naud, Liam Paninski (HTML)
 * [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) - British Neuroscience Association European Dana Alliance for the Brain (PDF)
-* [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) - John H. Byrne
-* [Principles of Psychology and Neuroscience](https://principlesofpsych.org) - Randall C. O’Reilly
-* [Probabilistic Models of Cognition](https://probmods.org) - Noah D. Goodman et al.
-* [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey
-* [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner and Werner M. Kistler
-* [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
-* [The Nervous System in Action](https://michaeldmann.net/The%20Nervous%20System%20In%20Action.html) - Michael D. Mann
-* [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer and Sean Hughes
-* [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, and Bryan Jones
+* [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) - John H. Byrne (HTML)
+* [Principles of Psychology and Neuroscience](https://principlesofpsych.org) - Randall C. O’Reilly (PDF, HTML, EPUB, KPF)
+* [Probabilistic Models of Cognition](https://probmods.org) - Noah D. Goodman et al. (HTML)
+* [Psychology: An Introduction](https://www.psywww.com/intropsych) - Russell A. Dewey (HTML)
+* [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) - Wulfram Gerstner, Werner M. Kistler (HTML)
+* [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book) (PDF, EPUB)
+* [The Nervous System in Action](https://michaeldmann.net/The%20Nervous%20System%20In%20Action.html) - Michael D. Mann (PDF, HTML)
+* [The Psychology of Learning](https://www.psychologyoflearning.be) - Jan De Houwer, Sean Hughes (PDF)
+* [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, Bryan Jones (HTML)
 
 
 # [(Q)](https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf) Science (General)
