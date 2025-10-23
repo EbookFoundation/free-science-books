@@ -137,18 +137,17 @@
 
 ## (QD) Chemistry
 
-* [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
-* [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
-* [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
+* [A Dictionary of Chemistry (1777)](https://digital.sciencehistory.org/works/rv042t57g) - Pierre Joseph Macquer, James Keir (PDF)
+* [Biochemistry from a phenomenological point of view](https://www.louisbolk.nl/sites/default/files/publication/pdf/1282.pdf) - Christa van Tellingen (PDF)
 * [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) - Paul Flowers, Klaus Theopold, Richard Langley et al. (PDF)
-* [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson et al. (PDF) 
-* [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
-* [Electrochemistry](https://unglue.it/work/488281/) - Mohammed A. A. Khalid
-* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
-* [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra
-* [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
-* [Structural Biochemistry](https://en.wikibooks.org/wiki/Structural_Biochemistry) - Wikibooks
-* [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
+* [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson, William R. Robinson (PDF, HTML) 
+* [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick, Richard Parsons, Therese Forsythe, Shonna Robinson, Jean Dupon (PDF)
+* [Electrochemistry](https://unglue.it/work/488281/) - Mohammed A. A. Khalid (PDF)
+* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher, Lizhi Fan (PDF, EPUB, MOBI)
+* [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra (PDF, EPUB, MOBI)
+* [Introduction to Chemistry](https://chemhaven.org/che101/book/chemistry_-_t_poulsen.pdf) - Tracy Poulsen (PDF)
+* [Structural Biochemistry](https://en.wikibooks.org/wiki/Structural_Biochemistry) - Wikibooks (HTML)
+* [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir (HTML, EPUB)
 
 
 ## (QE) Geology
