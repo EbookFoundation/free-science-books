@@ -83,16 +83,15 @@
 
 ## (QB) Astronomy
 
-* [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
-* [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
-* [Astronomy (1877)](https://unglue.it/work/81942/) - Sir Robert Stawell Ball 
-* [Astronomy (1915)](https://unglue.it/work/81943/) - Harold Jacoby
-* [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
-* [Astronomy 2e (OpenStax)](https://openstax.org/details/books/astronomy-2e) - Andrew Fraknoi et al. (PDF)
-* [Astronomy of To-day: A Popular Introduction in Non-Technical Language (2009)](https://unglue.it/work/81958/) - Cecil Goodrich Julius Dolmage
-* [Elements of astronomy (1836)](https://unglue.it/work/81958/) - John Hubbard Wilkins
-* [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://unglue.it/work/145858/) - Dylan Steele
-* [The New Astronomy (1888)](https://unglue.it/work/482922/) - S. P. (Samuel Pierpont) Langley
+* [A Short History of Astronomy (1898)](https://ia902301.us.archive.org/12/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
+* [Archaeology, Anthropology, and Interstellar Communication (2014)](https://www.nasa.gov/history/history-publications-and-resources/nasa-history-series/archaeology-anthropology-and-interstellar-communication/) - Douglas A. Vakoch (PDF, EPUB)
+* [Astronomy (1877)](https://dn790001.ca.archive.org/0/items/astronomyballrob00ballrich/astronomyballrob00ballrich.pdf) - Robert Stawell Ball (PDF)
+* [Astronomy, a popular handbook (1913)](https://dn790000.ca.archive.org/0/items/astronomypopular00jacouoft/astronomypopular00jacouoft.pdf) - Harold Jacoby (PDF)
+* [Astronomy 2e](https://openstax.org/details/books/astronomy-2e) - Andrew Fraknoi, David Morrison, Sidney Wolff (PDF)
+* [Astronomy of To-day: A Popular Introduction in Non-Technical Language (1909)](https://dn721506.ca.archive.org/0/items/astronomyoftoday00dolmuoft/astronomyoftoday00dolmuoft.pdf) - Cecil Goodrich Julius Dolmage (PDF)
+* [Elements of astronomy (1825)](https://ia800209.us.archive.org/2/items/elementsofastron00wilk/elementsofastron00wilk.pdf) - John Hubbard Wilkins (PDF)
+* [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-25-a-quarter-century-of-discovery-with-the-hubble-space-telescope/) - HubbleSite, WebbTelescope (PDF, EPUB)
+* [The New Astronomy (1889)](https://dn790002.ca.archive.org/0/items/newastronomy00languoft/newastronomy00languoft.pdf) - Samuel Pierpont Langley (PDF)
 
 
 ## (QC) Physics
