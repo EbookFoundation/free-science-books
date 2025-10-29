@@ -83,16 +83,15 @@
 
 ## (QB) Astronomy
 
-* [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
-* [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
-* [Astronomy (1877)](https://unglue.it/work/81942/) - Sir Robert Stawell Ball 
-* [Astronomy (1915)](https://unglue.it/work/81943/) - Harold Jacoby
-* [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
-* [Astronomy 2e (OpenStax)](https://openstax.org/details/books/astronomy-2e) - Andrew Fraknoi et al. (PDF)
-* [Astronomy of To-day: A Popular Introduction in Non-Technical Language (2009)](https://unglue.it/work/81958/) - Cecil Goodrich Julius Dolmage
-* [Elements of astronomy (1836)](https://unglue.it/work/81958/) - John Hubbard Wilkins
-* [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://unglue.it/work/145858/) - Dylan Steele
-* [The New Astronomy (1888)](https://unglue.it/work/482922/) - S. P. (Samuel Pierpont) Langley
+* [A Short History of Astronomy (1898)](https://ia902301.us.archive.org/12/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
+* [Archaeology, Anthropology, and Interstellar Communication (2014)](https://www.nasa.gov/history/history-publications-and-resources/nasa-history-series/archaeology-anthropology-and-interstellar-communication/) - Douglas A. Vakoch (PDF, EPUB)
+* [Astronomy (1877)](https://dn790001.ca.archive.org/0/items/astronomyballrob00ballrich/astronomyballrob00ballrich.pdf) - Robert Stawell Ball (PDF)
+* [Astronomy, a popular handbook (1913)](https://dn790000.ca.archive.org/0/items/astronomypopular00jacouoft/astronomypopular00jacouoft.pdf) - Harold Jacoby (PDF)
+* [Astronomy 2e](https://openstax.org/details/books/astronomy-2e) - Andrew Fraknoi, David Morrison, Sidney Wolff (PDF)
+* [Astronomy of To-day: A Popular Introduction in Non-Technical Language (1909)](https://dn721506.ca.archive.org/0/items/astronomyoftoday00dolmuoft/astronomyoftoday00dolmuoft.pdf) - Cecil Goodrich Julius Dolmage (PDF)
+* [Elements of astronomy (1825)](https://ia800209.us.archive.org/2/items/elementsofastron00wilk/elementsofastron00wilk.pdf) - John Hubbard Wilkins (PDF)
+* [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-25-a-quarter-century-of-discovery-with-the-hubble-space-telescope/) - HubbleSite, WebbTelescope (PDF, EPUB)
+* [The New Astronomy (1889)](https://dn790002.ca.archive.org/0/items/newastronomy00languoft/newastronomy00languoft.pdf) - Samuel Pierpont Langley (PDF)
 
 
 ## (QC) Physics
@@ -138,55 +137,54 @@
 
 ## (QD) Chemistry
 
-* [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
-* [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
-* [Biochemistry Practice Book](http://www.ets.org/s/gre/pdf/practice_book_biochem.pdf) - (PDF)
+* [A Dictionary of Chemistry (1777)](https://digital.sciencehistory.org/works/rv042t57g) - Pierre Joseph Macquer, James Keir (PDF)
+* [Biochemistry from a phenomenological point of view](https://www.louisbolk.nl/sites/default/files/publication/pdf/1282.pdf) - Christa van Tellingen (PDF)
 * [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) - Paul Flowers, Klaus Theopold, Richard Langley et al. (PDF)
-* [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson et al. (PDF) 
-* [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
-* [Electrochemistry](https://unglue.it/work/488281/) - Mohammed A. A. Khalid
-* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
-* [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra
-* [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
-* [Structural Biochemistry](https://en.wikibooks.org/wiki/Structural_Biochemistry) - Wikibooks
-* [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
+* [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson, William R. Robinson (PDF, HTML) 
+* [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick, Richard Parsons, Therese Forsythe, Shonna Robinson, Jean Dupon (PDF)
+* [Electrochemistry](https://unglue.it/work/488281/) - Mohammed A. A. Khalid (PDF)
+* [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher, Lizhi Fan (PDF, EPUB, MOBI)
+* [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra (PDF, EPUB, MOBI)
+* [Introduction to Chemistry](https://chemhaven.org/che101/book/chemistry_-_t_poulsen.pdf) - Tracy Poulsen (PDF)
+* [Structural Biochemistry](https://en.wikibooks.org/wiki/Structural_Biochemistry) - Wikibooks (HTML)
+* [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir (HTML, EPUB)
 
 
 ## (QE) Geology
 
-* [An Introduction to Geology](http://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher
-* [Physical Geology (2019)](https://opentextbc.ca/physicalgeology2ed/) - Steven Earle (PDF)
+* [An Introduction to Geology](https://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher (HTML)
+* [Physical Geology (2019)](https://opentextbc.ca/physicalgeology2ed/) - Steven Earle (PDF, HTML, EPUB)
 
 
 ## (QH) Natural history
 
-* [Selected Records of Reptiles and Amphibians from Kansas (1946)](https://www.gutenberg.org/ebooks/34554) - John Breukelman and Hobart Smith
+* [Selected Records of Reptiles and Amphibians from Kansas (1946)](https://www.gutenberg.org/ebooks/34554) - John Breukelman, Hobart Smith (HTML, EPUB)
 
 
 ## (QK) Botany
 
-* [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
+* [Beginners' Botany (1921)](https://ia600207.us.archive.org/18/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
 
 
 ## (QL) Zoology
 
-* [Mammals of the Southwest Mountains and Mesas (1961)](https://www.gutenberg.org/ebooks/50822) - George Olin
+* [Mammals of the Southwest Mountains and Mesas (1961)](https://www.gutenberg.org/ebooks/50822) - George Olin (HTML, EPUB)
 
 
 ## (QM) Human anatomy
 
 * [Human Biology](https://www.textbookequity.org/Textbooks/HumanBiologyCK12.pdf) - Douglas Wilkin, Jean Brainard (PDF)
-* [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
+* [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington (HTML, EPUB)
 
 
 ## (QP) Physiology
 
-* [The Glands Regulating Personality (1922)](https://www.gutenberg.org/ebooks/10266) - Louis Berman
+* [The Glands Regulating Personality (1922)](https://www.gutenberg.org/ebooks/10266) - Louis Berman (HTML, EPUB)
 
 
 ## (QR) Microbiology
 
-* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
+* [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Anh-Hue Thi Tu, Philip Lister, Brian M. Forster (PDF)
 
 ## (QS) Library and Information Science
 
@@ -197,21 +195,21 @@
 
 ## (RT) Nursing
 
-* [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - Boykin and Schoenhofer
+* [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - Anne Boykin, Savina O. Schoenhofer (HTML, PDF, EPUB)
 
 
 # [(T)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf) Technology
 
 ## (TJ) Mechanical engineering and machinery (includes Energy Conservation)
 
-* [Climate Change and the Oil Industry (2003)](https://unglue.it/work/138838/) - Jon Birger Skjaerseth and Tora Skodvin
-* [Our Car as Power Plant (2014)](https://unglue.it/work/129373/) - Ad van Wijk and Leendert Verhoef 
-* [Sustainable Energy - without the hot air (2009)](https://unglue.it/work/140777/) - David J. C. MacKay
-* [Understanding the Global Energy Crisis (2014)](https://unglue.it/work/136212/) - Eugene D. Coyle and Richard A. Simmons
+* [Climate Change and the Oil Industry (2003)](https://library.oapen.org/bitstream/handle/20.500.12657/35063/1/341325.pdf) - Jon Birger Skjærseth, Tora Skodvin (PDF)
+* [Our Car as Power Plant (2014)](https://profadvanwijk.com/archive/wp-content/uploads/2014/02/our-car-as-power-plant-ad-van-wijk.pdf) - Ad van Wijk, Leendert Verhoef (PDF)
+* [Sustainable Energy - without the hot air (2009)](https://www.withouthotair.com) - David J. C. MacKay (HTML, PDF)
+* [Understanding the Global Energy Crisis (2014)](https://library.oapen.org/bitstream/id/a79c8a8e-7bae-4c41-9844-2cde33da8c52/649976.pdf) - Eugene D. Coyle, Richard A. Simmons (PDF)
 
 
 ## (TP) Chemical Technology
 
-* [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam
-* [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan
-* [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/cache/epub/64922/pg64922-images.html) - Alan St. H. Brock
+* [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam (HTML, EPUB)
+* [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan (HTML, EPUB)
+* [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/ebooks/64922) - Alan St. H. Brock (HTML, EPUB)
