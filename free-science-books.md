@@ -26,59 +26,55 @@
 
 ## (QA) Mathematics
 
-* [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer
-* [A Pragmatic Introduction to Signal Processing with applications in scientific measurement](https://terpconnect.umd.edu/~toh/spectrum/TOC.html) - Tom O'Haver (online)
-* [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-* [Advanced Calculus](http://www.oercommons.org/courses/advanced-calculus/view) - Lynn H. Loomis and Shlomost Ernberg (PDF)
-* [An Introduction to Mathematical Reasoning](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf) - Peter J. Eccles (PDF)
+* [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer (HTML, PDF)
+* [A Pragmatic Introduction to Signal Processing with applications in scientific measurement](https://terpconnect.umd.edu/~toh/spectrum/TOC.html) - Tom O'Haver (PDF)
+* [Advanced Algebra](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
+* [Advanced Calculus](https://www.oercommons.org/courses/advanced-calculus/view) - Lynn H. Loomis, Shlomost Ernberg (PDF)
+* [An Introduction to Mathematical Reasoning](https://archive.org/details/introductiontoma0000eccl/mode/2up) - Peter J. Eccles (PDF)
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
-* [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
+* [Basic Algebra](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
 * [Basic Concepts of Mathematics](http://www.trillia.com/dA/zakon-basic-a4-one.pdf) - Elias Zakon (PDF)
-* [Basic Probability Theory](https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - Robert B. Ash (PDF)
-* [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
-* [Book Of Proof (2013)](http://www.people.vcu.edu/~rhammack/BookOfProof) - Richard Hammack
-* [Calculus](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) - Gilbert Strang (PDF)
-* [Calculus Better Explained](https://betterexplained.com/calculus/) - Kalid Azad (online)
-* [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
+* [Basic Probability Theory](https://web.archive.org/web/20210506143845/https://faculty.math.illinois.edu/~r-ash/BPT/BPT.pdf) - Robert B. Ash (PDF)
+* [Basics of Algebra, Topology, and Differential Calculus](https://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier,  Jocelyn Quaintance (PDF)
+* [Book Of Proof (2018)](https://richardhammack.github.io/BookOfProof/Main.pdf) - Richard Hammack (PDF)
+* [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/mitres_18_001_f17_full_book.pdf) - Gilbert Strang (PDF)
+* [Calculus Better Explained](https://betterexplained.com/calculus/) - Kalid Azad (HTML)
+* [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 * [Calculus Volume 1](https://archive.org/details/CalculusVolume1OP) - Edwin Jed Herman, Gilbert Strang (PDF)
-* [CLP-1 Differential Calculus textbook](http://www.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager (PDF)
-* [College Geometry](http://math.unideb.hu/media/vincze-csaba/collegegeom-main-1.pdf) - Csaba Vincze and László Kozma (PDF)
-* [Computational Geometry](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
-* [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) - Bradley Efron and Trevor Hastie (PDF)
-* [Elementary Algebra (2011)](http://www.mathhands.com/046) - Francisco Javier Márquez
+* [CLP-1 Differential Calculus textbook](https://personal.math.ubc.ca/~CLP/CLP1/clp_1_dc_text.pdf) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager (PDF)
+* [College Geometry](https://yangiasr.uz/files/books/2024-02-23-07-34-22_812084c1bd51e3684a531821722244f3.pdf) - Csaba Vincze, László Kozma (PDF)
+* [Computational Geometry](https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/) - Nicholas M. Patrikalakis, Takashi Maekawa, Wonjoon Cho (HTML)
+* [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://hastie.su.domains/CASI/) - Bradley Efron, Trevor Hastie (PDF)
 * [Elementary Differential Equations](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_DIFF_EQNS_I.PDF) - William F. Trench (PDF)
-* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) - Trevor Hastie, Robert Tibshirani, Jerome Friedman (PDF)
-* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springer
-* [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) - Iványi Antal Miklós
-* [How We Got From There to Here: A Store of Real Analysis](https://textbooks.opensuny.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers and Eugene C. Boman (HTML, PDF)
-* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) - Charles M. Grinstead and J. Laurie Snell
-* [Introduction to Probability and Statistics Spring 2014](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) -  Jeremy Orloff, Jonathan Bloom
-* [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
-* [Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
-* [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
-* [Linear Algebra](http://home.iitk.ac.in/~arlal/book/nptel/pdf/booklinear.html) - Dr. Arbind K Lal, IIT Kanpur (PDF)
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney, Tom Denton, Rohit Thomas and Andrew Waldron (PDF)
-* [Linear Algebra by Jim Hefferon](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-* [Linear Algebra Notes](http://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
+* [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, Jerome Friedman (PDF)
+* [Encyclopedia of Mathematics](https://www.encyclopediaofmath.org/index.php/Special:AllPages) - Springer (HTML)
+* [How We Got From There to Here: A Store of Real Analysis](https://staging.open.umn.edu/opentextbooks/textbooks/how-we-got-from-there-to-here-a-story-of-real-analysis) - Robert Rogers, Eugene C. Boman (HTML, PDF)
+* [Introduction to Mathematical Logic](https://archive.org/details/introductiontoma0000wali/mode/2up) - Michal Walicki (PDF)
+* [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
+* [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/) -  Jeremy Orloff, Jonathan Bloom (PDF)
+* [Introduction to Proofs](https://jheffero.w3.uvm.edu/proofs/ibl-compact.pdf) - Jim Hefferon (PDF)
+* [Lecture Notes of Linear Algebra](http://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Nandini Nilakantan, P. Shunmugaraj (PDF)
+* [Linear Algebra](http://kcl.digimat.in/nptel/courses/video/111104137/lec51.pdf) -  Arbind Kumar Lal (PDF)
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney, Tom Denton, Rohit Thomas, Andrew Waldron (PDF)
+* [Linear Algebra](https://hefferon.net/linearalgebra/) - Jim Hefferon (PDF)
+* [Linear Algebra Notes](https://scipp.ucsc.edu/~haber/ph116A/new_linearalgebra.pdf) - David A. Santos (PDF)
 * [Linear Algebra Theory and Applications](https://www.textbookequity.org/Textbooks/Linear-Algebra-theory_apps_OTCe.pdf) - Kenneth Kuttler (PDF) 
-* [Mathematical Logic - an Introduction](http://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
-* [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman et al. (PDF)
-* [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong (PDF)
-* [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf) - Michael Stone and Paul Goldbart (PDF)
+* [Mathematics For Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F Thomson Leighton, Albert R Meyer (PDF)
+* [Mathematics For Machine Learning](https://mml-book.github.io/book/mml-book.pdf) - Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (PDF)
+* [Mathematics for Physics](https://people.physics.illinois.edu/stone/bookmaster.pdf) - Michael Stone, Paul Goldbart (PDF)
 * [Mathematics Formulary](https://johanw.home.xs4all.nl/math.pdf) - J.C.A. Wevers (PDF)
-* [Modern Elementary Geometry](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/15592/Lectures_of_polygons_%20BG_1997.pdf?sequence=1) - B. Grünbaum (PDF)
+* [Modern Elementary Geometry](https://digital.lib.washington.edu/server/api/core/bitstreams/b792405c-34ad-4b99-b2a5-7aed6b004d9a/content) - Branko Grünbaum (PDF)
 * [Mostly Harmless Statistics](https://open.umn.edu/opentextbooks/textbooks/mostly-harmless-statistics) - Rachel L. Webb (PDF)
-* [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
-* [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php)
+* [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee (PDF)
+* [OpenIntro Statistics](https://www.openintro.org/book/os/) - David Diez, Mine Cetinkaya-Rundel, Christopher D Barr (PDF)
 * [OpenStax - Mathematics](https://openstax.org/subjects/math) - OpenStax (PDF)
-* [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
-* [Probability and Statistics Cookbook](http://statistics.zone)
-* [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
-* [Stacks Project](http://stacks.math.columbia.edu)
-* [Statistics Done Wrong](http://www.statisticsdonewrong.com) - Alex Reinhart
-* [The Handbook of Essential Mathematics](https://theorangegrove.org/wp-content/uploads/2023/04/the-handbook-of-essential-mathematics-sparks.pdf-1292911.pdf) - John C. Sparks (PDF)
-* [Trigonometry Lecture Notes And Exercises](http://pages.uoregon.edu/raies/Teaching%20Documents/Math%20112%20-%20Spring%202014/Lecture_Notes.pdf) - D. Raies (PDF)
-* [Understanding Basic Calculus](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
+* [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks (HTML, PDF)
+* [Probability and Statistics Cookbook](http://statistics.zone) -  Matthias Vallentin (PDF)
+* [Stacks Project](http://stacks.math.columbia.edu) - The Stacks project (HTML)
+* [Statistics Done Wrong](https://www.statisticsdonewrong.com) - Alex Reinhart (HTML)
+* [The Handbook of Essential Mathematics](https://wpafbstem.com/pages_main/math_resources/math_handbook1.pdf) - John C. Sparks (PDF)
+* [Trigonometry Lecture Notes And Exercises](https://www.scribd.com/document/380867237/Lecture-Notes) - Daniel Raies (PDF)
+* [Understanding Basic Calculus](https://www.math.nagoya-u.ac.jp/~richard/teaching/f2015/BasicCalculus.pdf) - S.K. Chung (PDF)
 
 
 ## (QB) Astronomy
